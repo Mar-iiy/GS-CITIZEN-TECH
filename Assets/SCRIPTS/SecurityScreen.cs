@@ -8,7 +8,9 @@ public class SecurityScreen : MonoBehaviour
     private SpriteRenderer sr;
     private Coroutine stateRoutine;
 
-   // [SerializeField] Sprite[] spritesStates;
+    [SerializeField] private ChangeCamera changeCamera;
+
+    // [SerializeField] Sprite[] spritesStates;
 
 
     [Header("Timer")]
@@ -18,9 +20,7 @@ public class SecurityScreen : MonoBehaviour
 
     [Header("State")]
     bool isAlarmOn;
-
-
-    [SerializeField] int intID;
+    [SerializeField] public static int intID;
     void Start()
     {
         col = GetComponent<Collider2D>();
@@ -67,7 +67,7 @@ public class SecurityScreen : MonoBehaviour
         //depois dos 10 segundo isAlertOn == false e checkState é chamado
 
         sr.color = Color.red;
-        intID = Random.Range(1, 9); // 1 a 8 (o máximo é exclusivo no int)
+        intID = Random.Range(1, 2); // 1 a 8 (o máximo é exclusivo no int)
         stateRoutine = StartCoroutine(AlertOnRoutine());
     }
 
@@ -108,6 +108,7 @@ public class SecurityScreen : MonoBehaviour
         if(isAlarmOn)
         {
             Debug.Log("FOI CLICADO");
+            changeCamera.ActivateCamera(intID);
         }
 
         else
