@@ -29,13 +29,6 @@ public class SecurityScreen : MonoBehaviour
         isAlarmOn = false;
         CheckState();
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     void CheckState()
     {
         //checar se isAlarOn esta true ou false
@@ -67,7 +60,7 @@ public class SecurityScreen : MonoBehaviour
         //depois dos 10 segundo isAlertOn == false e checkState é chamado
 
         sr.color = Color.red;
-        intID = Random.Range(1, 2); // 1 a 8 (o máximo é exclusivo no int)
+        intID = Random.Range(1, 4); 
         stateRoutine = StartCoroutine(AlertOnRoutine());
     }
 
