@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class LvlTimer : MonoBehaviour
 {
-    [SerializeField] private LvlManager lvlManager;
+    [SerializeField] private LvlManager lvlmanager;
 
     [Header("Settings")]
     [SerializeField] private int startHour;
@@ -46,7 +46,7 @@ public class LvlTimer : MonoBehaviour
         }
     }
 
-    void AdvanceMinute()
+    public void AdvanceMinute()
     {
         currentMinute++;
 
@@ -62,8 +62,20 @@ public class LvlTimer : MonoBehaviour
         {
             clockRunning = false;
             Debug.Log("FIM DA FASE");
-            //lvlManager.EndLevel();
+            lvlmanager.EndLevel();
         }
+    }
+
+    public void PauseTimer()
+    {
+        clockRunning = false;
+        Debug.Log("TIMER PAUSADO");
+    }
+
+    public void ResumeTimer()
+    {
+        clockRunning = true;
+        Debug.Log("TIMER CONTINUADO");
     }
 
     void UpdateClockDisplay()

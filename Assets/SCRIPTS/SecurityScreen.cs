@@ -9,6 +9,7 @@ public class SecurityScreen : MonoBehaviour
     private Coroutine stateRoutine;
 
     [SerializeField] private ChangeCamera changeCamera;
+    [SerializeField] private LvlManager lvlManager;
 
     // [SerializeField] Sprite[] spritesStates;
 
@@ -21,6 +22,7 @@ public class SecurityScreen : MonoBehaviour
     [Header("State")]
     bool isAlarmOn;
     [SerializeField] public static int intID;
+
     void Start()
     {
         col = GetComponent<Collider2D>();
@@ -102,6 +104,8 @@ public class SecurityScreen : MonoBehaviour
         {
             Debug.Log("FOI CLICADO");
             changeCamera.ActivateCamera(intID);
+            AlertOff();
+            lvlManager.StartMinigame();
         }
 
         else
