@@ -27,7 +27,7 @@ public class LvlTimer : MonoBehaviour
         currentHour = startHour;
         currentMinute = startMinute;
 
-        UpdateClockDisplay();
+        UpdateTimerDisplay();
     }
 
     void Update()
@@ -56,7 +56,7 @@ public class LvlTimer : MonoBehaviour
             currentHour++;
         }
 
-        UpdateClockDisplay();
+        UpdateTimerDisplay();
 
         if (currentHour >= endHour && currentMinute == 0)
         {
@@ -64,6 +64,18 @@ public class LvlTimer : MonoBehaviour
             Debug.Log("FIM DA FASE");
             lvlmanager.EndLevel();
         }
+    }
+
+    public void SetDayTime(int newStartHour, int newStartMinute, int newEndHour)
+    {
+        startHour = newStartHour;
+        startMinute = newStartMinute;
+        endHour = newEndHour;
+
+        currentHour = startHour;
+        currentMinute = startMinute;
+
+        AdvanceMinute();
     }
 
     public void PauseTimer()
@@ -78,7 +90,7 @@ public class LvlTimer : MonoBehaviour
         Debug.Log("TIMER CONTINUADO");
     }
 
-    void UpdateClockDisplay()
+    void UpdateTimerDisplay()
     {
         timerText.text = $"{currentHour:00}:{currentMinute:00}";
     }

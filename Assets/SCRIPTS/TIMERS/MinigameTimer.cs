@@ -1,5 +1,7 @@
-using UnityEngine;
+using NUnit.Framework.Constraints;
+using System;
 using TMPro;
+using UnityEngine;
 
 public class MinigameTimer : MonoBehaviour
 {
@@ -7,53 +9,64 @@ public class MinigameTimer : MonoBehaviour
     [SerializeField] WinLoseMinigame winOrLose;
 
     [Header("Timer Settings")]
-    [SerializeField] private float minigameDuration = 15f;
     [SerializeField] private TMP_Text timerText;
-    [SerializeField] private float timer;
-    [SerializeField] private bool timerRunning;
+    [SerializeField] public float currentTime;
+    [SerializeField] private bool active;
+
 
     private void Start()
     {
-        timerRunning = false;
-
         timerText.gameObject.SetActive(false);
+        active = false;
     }
 
     private void Update()
     {
-        if (!timerRunning)
-        { 
-            return; 
+        if (!active)
+        {
+            return;
         }
 
-        timer -= Time.deltaTime;
+        currentTime -= Time.deltaTime;
 
-        timerText.text = Mathf.CeilToInt(timer).ToString();
+        timerText.text = ("00:" + Mathf.CeilToInt(currentTime).ToString());
 
-        if (timer <= 0)
+        if (currentTime <= 0f)
         {
-            timer = 0;
+            Debug.Log("TEMPO MINIGAME ACABOU");
 
-            StopTimer();
+            currentTime = 0f;
+            active = false;
+
+            timerText.text = "00:00";
+
             winOrLose.LoseMinigame();
         }
     }
 
-    public void StartTimer()
-    {
-        timer = minigameDuration;
-
-        timerRunning = true;
-
-        timerText.gameObject.SetActive(true);
-        timerText.text = Mathf.CeilToInt(timer).ToString();
-
-        Debug.Log("TIMER DO MINIGAME INICIADO");
-    }
-
     public void StopTimer()
     {
-        timerRunning = false;
+        Debug.Log("TIMER DESATIVADO");
+
+        active = false;
+        currentTime = 0;
+
         timerText.gameObject.SetActive(false);
+       
     }
+
+    public void StartTimer()
+    {
+        Debug.Log("TIMER ATIVADO");
+
+        active = true;
+        currentTime = 15f;
+      
+        timerText.gameObject.SetActive(true);
+
+
+        timerText.text = ("00:" + Mathf.CeilToInt(currentTime).ToString());
+    }
+
 }
+

@@ -9,11 +9,12 @@ public class LvlManager : MonoBehaviour
 
 
     [Header("Points")]
-    [SerializeField] public int satisfactionPointsGood;
-    [SerializeField] public int satisfactionPointsBad;
+    [SerializeField] public int satisfactionPointsG;
+    [SerializeField] public int satisfactionPointsB;
+
 
     [Header("EndScreen")]
-    [SerializeField] private GameObject[] endScreen;
+    [SerializeField] public GameObject[] endScreen;
 
     public  bool minigameIsOn;
 
@@ -26,18 +27,19 @@ public class LvlManager : MonoBehaviour
 
     public void EndLevel()
     {
-        if (satisfactionPointsGood > satisfactionPointsBad)
+        if (satisfactionPointsG > satisfactionPointsB)
         {
             endScreen[0].SetActive(true);
+            satisfactionPointsG = 0;
         }
 
         else
         {
             endScreen[1].SetActive(true);
+            satisfactionPointsB = 0;
         }
     }
 
-    // Update is called once per frame
     void Update()
     {
         
@@ -46,8 +48,8 @@ public class LvlManager : MonoBehaviour
     public void StartMinigame()
     {
         minigameIsOn = true;
-        lvlTime.PauseTimer();
         minigameTime.StartTimer();
+        Debug.Log("MINIGAME INICIADO");
     }
 
     public void EndMinigame()

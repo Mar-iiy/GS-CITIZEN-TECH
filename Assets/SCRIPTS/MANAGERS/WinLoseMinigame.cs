@@ -12,12 +12,12 @@ public class WinLoseMinigame : MonoBehaviour
 
     public void WinMinigame()
     {
-        lvlmanager.satisfactionPointsGood += 10;
+        lvlmanager.satisfactionPointsG += 10;
         Return();
     }
     public void LoseMinigame()
     {
-        lvlmanager.satisfactionPointsBad += 10;
+        lvlmanager.satisfactionPointsB += 10;
         Return();
     }
 

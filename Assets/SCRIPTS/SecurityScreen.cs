@@ -91,6 +91,8 @@ public class SecurityScreen : MonoBehaviour
 
     IEnumerator AlertOffRoutine()
     {
+        //espera o tempo aleatorio pra ligar de novo
+        
         float wait = Random.Range(minTimer, maxTimer);
         yield return new WaitForSeconds(wait);
 
