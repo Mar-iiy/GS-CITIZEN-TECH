@@ -75,18 +75,21 @@ public class LvlTimer : MonoBehaviour
         currentHour = startHour;
         currentMinute = startMinute;
 
+        ResumeTimer();
         AdvanceMinute();
     }
 
     public void PauseTimer()
     {
         clockRunning = false;
+        AdvanceMinute();
         Debug.Log("TIMER PAUSADO");
     }
 
     public void ResumeTimer()
     {
         clockRunning = true;
+        AdvanceMinute();
         Debug.Log("TIMER CONTINUADO");
     }
 

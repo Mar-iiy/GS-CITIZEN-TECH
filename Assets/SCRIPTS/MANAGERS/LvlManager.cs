@@ -30,19 +30,16 @@ public class LvlManager : MonoBehaviour
         if (satisfactionPointsG > satisfactionPointsB)
         {
             endScreen[0].SetActive(true);
+            lvlTime.PauseTimer();
             satisfactionPointsG = 0;
         }
 
         else
         {
             endScreen[1].SetActive(true);
+            lvlTime.PauseTimer();
             satisfactionPointsB = 0;
         }
-    }
-
-    void Update()
-    {
-        
     }
 
     public void StartMinigame()

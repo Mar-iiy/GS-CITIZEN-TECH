@@ -4,6 +4,8 @@ public class DayManager : MonoBehaviour
 {
     [SerializeField] private LvlManager lvlManager;
     [SerializeField] private LvlTimer lvlTimer;
+    [SerializeField] private TutorialDialogue tutorialDialogue;
+
 
     [Header("WeekPoints")]
     [SerializeField] int weekSatisfactionG;
@@ -70,6 +72,8 @@ public class DayManager : MonoBehaviour
                 lvlTimer.SetDayTime(18, 0, 20);
                 break;
         }
+
+        tutorialDialogue.SetDialogueGroup(dayNumber);
     }
 
     void CallEndWeek()
