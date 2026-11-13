@@ -1,11 +1,13 @@
 using UnityEngine;
 
-public class MinigameN01 : MonoBehaviour
+public class lostItem : MonoBehaviour
 {
     [SerializeField] private WinLoseMinigame winLose;
+    [SerializeField] private MinigameN01 minigame01;
+
     private Collider2D col;
 
-    void Start()
+    private void Start()
     {
         col = GetComponent<Collider2D>();
     }
@@ -14,5 +16,6 @@ public class MinigameN01 : MonoBehaviour
     {
         Debug.Log("OBJETO CLICADO");
         winLose.WinMinigame();
+        minigame01.EndMinigame();
     }
 }
