@@ -7,8 +7,8 @@ public class ChangeCamera : MonoBehaviour
     [SerializeField] private Camera[] cameraScene;
 
     [Header("Canvas")]
-    //[SerializeField] private Canvas[] canvasScene;
-    [SerializeField] private Canvas canvasBorda;
+    [SerializeField] private Canvas[] canvasScene;
+    //[SerializeField] private Canvas canvasBorda;
 
     public static int activeCameraID;
 
@@ -19,10 +19,10 @@ public class ChangeCamera : MonoBehaviour
             cameraScene[i].enabled = false;
         }
 
-        /*for (int i = 0; i < canvasScene.Length; i++)
+        for (int i = 0; i < canvasScene.Length; i++)
         {
             canvasScene[i].enabled = false;
-        }*/
+        }
 
         if (cameraID >= 0 && cameraID < cameraScene.Length)
         {
@@ -31,6 +31,7 @@ public class ChangeCamera : MonoBehaviour
             activeCameraID = cameraID;
             Debug.Log("Câmera ativada: " + cameraID);
         }
-        //canvasScene[SecurityScreen.intID].enabled = true;
+        
+        canvasScene[cameraID].enabled = true;
     }
 }

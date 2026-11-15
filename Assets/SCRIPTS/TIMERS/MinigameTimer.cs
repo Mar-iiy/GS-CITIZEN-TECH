@@ -10,12 +10,15 @@ public class MinigameTimer : MonoBehaviour
 
     [Header("Timer Settings")]
     [SerializeField] private TMP_Text timerText;
+    [SerializeField] private GameObject timerPanel;
     [SerializeField] public float currentTime;
     [SerializeField] private bool active;
 
 
     private void Start()
     {
+        timerPanel.SetActive(false);
+
         timerText.gameObject.SetActive(false);
         active = false;
     }
@@ -29,7 +32,7 @@ public class MinigameTimer : MonoBehaviour
 
         currentTime -= Time.deltaTime;
 
-        timerText.text = ("00:" + Mathf.CeilToInt(currentTime).ToString());
+        timerText.text = ("00:" + Mathf.CeilToInt(currentTime).ToString("00"));
 
         if (currentTime <= 0f)
         {
@@ -51,8 +54,8 @@ public class MinigameTimer : MonoBehaviour
         active = false;
         currentTime = 0;
 
+        timerPanel.SetActive(false);
         timerText.gameObject.SetActive(false);
-       
     }
 
     public void StartTimer()
@@ -61,10 +64,10 @@ public class MinigameTimer : MonoBehaviour
 
         active = true;
         currentTime = 15f;
-      
+
+        timerPanel.SetActive(true);
         timerText.gameObject.SetActive(true);
-
-
+       
         timerText.text = ("00:" + Mathf.CeilToInt(currentTime).ToString());
     }
 
