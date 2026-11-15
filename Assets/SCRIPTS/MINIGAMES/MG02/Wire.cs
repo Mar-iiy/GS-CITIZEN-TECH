@@ -24,14 +24,9 @@ public class Wire : MonoBehaviour
         startPoint = transform.parent.position;
         startPosition = transform.position;
 
-        isConnected = true;
+        isConnected = false;
 
         wireId = GetComponent<WireID>();
-    }
-
-    void Update()
-    {
-        
     }
 
     private void OnMouseDrag()
@@ -51,14 +46,13 @@ public class Wire : MonoBehaviour
 
                 if(wireId.wireIdnumber == otherWireId.wireIdnumber)
                 {
-                    Debug.Log("FIOS CONECTADOS");
-
-                    light.color = Color.green;
-
                     if (!isConnected)
                     {
+                        Debug.Log("FIOS CONECTADOS");
+
+                        light.color = Color.green;
                         isConnected = true;
-                       
+
                         minigameN02.AddConnectedWire();
                     }
                 }

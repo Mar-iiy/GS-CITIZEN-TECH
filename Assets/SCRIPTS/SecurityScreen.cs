@@ -62,7 +62,7 @@ public class SecurityScreen : MonoBehaviour
         //depois dos 10 segundo isAlertOn == false e checkState é chamado
 
         sr.color = Color.red;
-        intID = Random.Range(1, 3); 
+        intID = Random.Range(1, 4); 
         //intID = 2;
         stateRoutine = StartCoroutine(AlertOnRoutine());
     }

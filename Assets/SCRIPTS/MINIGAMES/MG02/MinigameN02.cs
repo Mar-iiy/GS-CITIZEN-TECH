@@ -23,16 +23,24 @@ public class MinigameN02 : MonoBehaviour
         {
             return;
         }
+    }
 
-        if (ChangeCamera.activeCameraID == 1)
+    public void AddConnectedWire()
+    {
+        connectedWires++;
+
+        Debug.Log("Wires conectados: " + connectedWires);
+
+        if (connectedWires >= 4)
         {
-            PlayMinigame();
+            EndMinigame();
         }
     }
 
-    void PlayMinigame()
+    private void EndMinigame()
     {
- 
+        winLose.WinMinigame();
+
         connectedWires = 0;
 
         Wire[] wires = FindObjectsByType<Wire>();
@@ -42,22 +50,5 @@ public class MinigameN02 : MonoBehaviour
             wire.ResetWire();
         }
 
-    }
-
-    public void AddConnectedWire()
-    {
-        connectedWires++;
-
-        Debug.Log("Wires conectados: " + connectedWires);
-
-        if (connectedWires == 4)
-        {
-            EndMinigame();
-        }
-    }
-
-    private void EndMinigame()
-    {
-        winLose.WinMinigame();
     }
 }

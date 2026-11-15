@@ -7,6 +7,7 @@ public class MinigameTimer : MonoBehaviour
 {
     [SerializeField] private LvlManager lvlManager;
     [SerializeField] WinLoseMinigame winOrLose;
+    [SerializeField] private ChangeCamera changeCamera;
 
     [Header("Timer Settings")]
     [SerializeField] private TMP_Text timerText;
@@ -60,15 +61,18 @@ public class MinigameTimer : MonoBehaviour
 
     public void StartTimer()
     {
-        Debug.Log("TIMER ATIVADO");
+        if(ChangeCamera.activeCameraID != 0)
+        {
+            Debug.Log("TIMER ATIVADO");
 
-        active = true;
-        currentTime = 15f;
+            active = true;
+            currentTime = 15f;
 
-        timerPanel.SetActive(true);
-        timerText.gameObject.SetActive(true);
-       
-        timerText.text = ("00:" + Mathf.CeilToInt(currentTime).ToString());
+            timerPanel.SetActive(true);
+            timerText.gameObject.SetActive(true);
+
+            timerText.text = ("00:" + Mathf.CeilToInt(currentTime).ToString());
+        }
     }
 
 }
