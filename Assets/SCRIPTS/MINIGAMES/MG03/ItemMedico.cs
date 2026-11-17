@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class ItemMedico : MonoBehaviour
 {
@@ -10,6 +11,11 @@ public class ItemMedico : MonoBehaviour
 
     [Header("Treatment ID")]
     [SerializeField] private int tratamentoID;
+
+    [Header("Efeitos")]
+    [SerializeField] private ParticleSystem particle;
+    [SerializeField] private AudioClip audioItem;
+    [SerializeField] private AudioSource audio;
 
     private Collider2D col;
 
@@ -44,23 +50,42 @@ public class ItemMedico : MonoBehaviour
                 continue;
 
             if (tratamentoID == otherPaciente.pacienteID)
+            {
+                if (!otherPaciente.pacienteHealthy)
                 {
-                    if (!otherPaciente.pacienteHealthy)
-                    {
-                        Debug.Log("PACIENTE RECEBEU ATENDIMENTO");
+                    Debug.Log("PACIENTE RECEBEU ATENDIMENTO");
 
-                        otherPaciente.pacienteHealthy = true;
+                    otherPaciente.pacienteHealthy = true;
 
-                        otherPaciente.CheckStatus();
+                    otherPaciente.CheckStatus();
 
-                        minigameN03.AllPatientsHealthy();
-                    }
+                    StartCoroutine(WaitForEffects());
 
-                    return;
+                }
+
+                return;
             }
         }
 
         UpdatePosition(newPosition);
+    }
+
+    public void PlaySound()
+    {
+        audio.clip = audioItem;
+        audio.Play();
+    }
+
+    private IEnumerator WaitForEffects()
+    {
+        particle.Play();
+        PlaySound();
+
+        yield return new WaitWhile(() => audio.isPlaying);
+
+        yield return new WaitWhile(() => particle.IsAlive());
+
+        minigameN03.AllPatientsHealthy();
     }
 
     private void OnMouseUp()

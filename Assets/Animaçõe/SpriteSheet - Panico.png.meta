@@ -1,0 +1,2030 @@
+fileFormatVersion: 2
+guid: 2005a3031cfcb7d44b8507fe336c9392
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2806765583268422017
+    second: SpriteSheet - Panico_0
+  - first:
+      213: 1209606301160969199
+    second: SpriteSheet - Panico_1
+  - first:
+      213: -4368439354778220376
+    second: SpriteSheet - Panico_2
+  - first:
+      213: -4515148411657980540
+    second: SpriteSheet - Panico_3
+  - first:
+      213: -1725638843765857304
+    second: SpriteSheet - Panico_4
+  - first:
+      213: 1152282692817844358
+    second: SpriteSheet - Panico_5
+  - first:
+      213: 5112943659012339921
+    second: SpriteSheet - Panico_6
+  - first:
+      213: 5108346369733847189
+    second: SpriteSheet - Panico_7
+  - first:
+      213: 7847215419943777194
+    second: SpriteSheet - Panico_8
+  - first:
+      213: 3752322515378182940
+    second: SpriteSheet - Panico_9
+  - first:
+      213: -2109547438468570470
+    second: SpriteSheet - Panico_10
+  - first:
+      213: -3062979693925717691
+    second: SpriteSheet - Panico_11
+  - first:
+      213: -7583337621624398548
+    second: SpriteSheet - Panico_12
+  - first:
+      213: 1931542400412335416
+    second: SpriteSheet - Panico_13
+  - first:
+      213: -5804885306103091437
+    second: SpriteSheet - Panico_14
+  - first:
+      213: 7845031733935632465
+    second: SpriteSheet - Panico_15
+  - first:
+      213: 3217400254593296967
+    second: SpriteSheet - Panico_16
+  - first:
+      213: -2032017087232889976
+    second: SpriteSheet - Panico_17
+  - first:
+      213: -2620012914175549804
+    second: SpriteSheet - Panico_18
+  - first:
+      213: -1100521209136609630
+    second: SpriteSheet - Panico_19
+  - first:
+      213: -284997439926383831
+    second: SpriteSheet - Panico_20
+  - first:
+      213: 7844290057757088353
+    second: SpriteSheet - Panico_21
+  - first:
+      213: -6051349082879263853
+    second: SpriteSheet - Panico_22
+  - first:
+      213: -119090339308368993
+    second: SpriteSheet - Panico_23
+  - first:
+      213: -1643537239646492260
+    second: SpriteSheet - Panico_24
+  - first:
+      213: -4738084199225810269
+    second: SpriteSheet - Panico_25
+  - first:
+      213: -1023877402323082358
+    second: SpriteSheet - Panico_26
+  - first:
+      213: 3813391123960660173
+    second: SpriteSheet - Panico_27
+  - first:
+      213: 1329438483893602283
+    second: SpriteSheet - Panico_28
+  - first:
+      213: 4082530495950570189
+    second: SpriteSheet - Panico_29
+  - first:
+      213: 295839580682939583
+    second: SpriteSheet - Panico_30
+  - first:
+      213: -2893024862515997492
+    second: SpriteSheet - Panico_31
+  - first:
+      213: -7003094346464679274
+    second: SpriteSheet - Panico_32
+  - first:
+      213: 6036726103413836727
+    second: SpriteSheet - Panico_33
+  - first:
+      213: 7387657149860769916
+    second: SpriteSheet - Panico_34
+  - first:
+      213: 2297289212782568683
+    second: SpriteSheet - Panico_35
+  - first:
+      213: -1454703909775376071
+    second: SpriteSheet - Panico_36
+  - first:
+      213: -1695593327610486559
+    second: SpriteSheet - Panico_37
+  - first:
+      213: 1785703807906119473
+    second: SpriteSheet - Panico_38
+  - first:
+      213: -2881561615960574056
+    second: SpriteSheet - Panico_39
+  - first:
+      213: 7605579976435353847
+    second: SpriteSheet - Panico_40
+  - first:
+      213: 6609051052335639881
+    second: SpriteSheet - Panico_41
+  - first:
+      213: 6398117544164656147
+    second: SpriteSheet - Panico_42
+  - first:
+      213: -3263871735709761259
+    second: SpriteSheet - Panico_43
+  - first:
+      213: -3222505347658906946
+    second: SpriteSheet - Panico_44
+  - first:
+      213: -2607875214656106493
+    second: SpriteSheet - Panico_45
+  - first:
+      213: 3935706263843579320
+    second: SpriteSheet - Panico_46
+  - first:
+      213: 2690370349906728119
+    second: SpriteSheet - Panico_47
+  - first:
+      213: -3970151537124941827
+    second: SpriteSheet - Panico_48
+  - first:
+      213: 4250261701422308929
+    second: SpriteSheet - Panico_49
+  - first:
+      213: -6878526706199641082
+    second: SpriteSheet - Panico_50
+  - first:
+      213: -130148956308236220
+    second: SpriteSheet - Panico_51
+  - first:
+      213: -2045027989020451712
+    second: SpriteSheet - Panico_52
+  - first:
+      213: 4035252529352517573
+    second: SpriteSheet - Panico_53
+  - first:
+      213: -4555651074727867200
+    second: SpriteSheet - Panico_54
+  - first:
+      213: 4315741479407882295
+    second: SpriteSheet - Panico_55
+  - first:
+      213: -3683885644141174550
+    second: SpriteSheet - Panico_56
+  - first:
+      213: -7312807739319824304
+    second: SpriteSheet - Panico_57
+  - first:
+      213: 7775930488173477085
+    second: SpriteSheet - Panico_58
+  - first:
+      213: 5125729357393216728
+    second: SpriteSheet - Panico_59
+  - first:
+      213: -7878734569679743414
+    second: SpriteSheet - Panico_60
+  - first:
+      213: -3614962371623860156
+    second: SpriteSheet - Panico_61
+  - first:
+      213: 4285235723292387868
+    second: SpriteSheet - Panico_62
+  - first:
+      213: 4149728462490743912
+    second: SpriteSheet - Panico_63
+  - first:
+      213: -7777760268965895779
+    second: SpriteSheet - Panico_64
+  - first:
+      213: 7338433394864960370
+    second: SpriteSheet - Panico_65
+  - first:
+      213: -165116170594581036
+    second: SpriteSheet - Panico_66
+  - first:
+      213: 7250452006796305905
+    second: SpriteSheet - Panico_67
+  - first:
+      213: 8814550883708083445
+    second: SpriteSheet - Panico_68
+  - first:
+      213: -4016617546393075022
+    second: SpriteSheet - Panico_69
+  - first:
+      213: -1544424726597354254
+    second: SpriteSheet - Panico_70
+  - first:
+      213: -167471839518768897
+    second: SpriteSheet - Panico_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_0
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 8505
+        width: 863
+        height: 1112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e5e79a29d5c09d0800000000000000
+      internalID: -2806765583268422017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_1
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 8505
+        width: 860
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe316caa58269c010800000000000000
+      internalID: 1209606301160969199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_2
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 8505
+        width: 845
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a88b934d8f2063c0800000000000000
+      internalID: -4368439354778220376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_3
+      rect:
+        serializedVersion: 2
+        x: 4806
+        y: 8510
+        width: 801
+        height: 1112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485f4fe1178f651c0800000000000000
+      internalID: -4515148411657980540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_4
+      rect:
+        serializedVersion: 2
+        x: 6286
+        y: 8517
+        width: 741
+        height: 1103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e368ba4d9c4d08e0800000000000000
+      internalID: -1725638843765857304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_5
+      rect:
+        serializedVersion: 2
+        x: 7720
+        y: 8523
+        width: 772
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688fc3a010bbdff00800000000000000
+      internalID: 1152282692817844358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_6
+      rect:
+        serializedVersion: 2
+        x: 9164
+        y: 8528
+        width: 831
+        height: 1084
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d834081b23d4f640800000000000000
+      internalID: 5112943659012339921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_7
+      rect:
+        serializedVersion: 2
+        x: 10607
+        y: 8530
+        width: 890
+        height: 1078
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59864a545fd74e640800000000000000
+      internalID: 5108346369733847189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_8
+      rect:
+        serializedVersion: 2
+        x: 12050
+        y: 8530
+        width: 950
+        height: 1069
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa377bd19d8e6ec60800000000000000
+      internalID: 7847215419943777194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_9
+      rect:
+        serializedVersion: 2
+        x: 13501
+        y: 8530
+        width: 994
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b11d3727de21430800000000000000
+      internalID: 3752322515378182940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 7317
+        width: 1020
+        height: 1058
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92ee3518c169b2e0800000000000000
+      internalID: -2109547438468570470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_11
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 7318
+        width: 1028
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549a25d523c1e75d0800000000000000
+      internalID: -3062979693925717691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_12
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 7318
+        width: 1028
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dd8338c9292c690800000000000000
+      internalID: -7583337621624398548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_13
+      rect:
+        serializedVersion: 2
+        x: 4646
+        y: 7318
+        width: 1028
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dbe2554973eca10800000000000000
+      internalID: 1931542400412335416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_14
+      rect:
+        serializedVersion: 2
+        x: 6119
+        y: 7318
+        width: 1028
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f27d7d197e07fa0800000000000000
+      internalID: -5804885306103091437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_15
+      rect:
+        serializedVersion: 2
+        x: 7592
+        y: 7318
+        width: 1028
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15076e81cc62fdc60800000000000000
+      internalID: 7845031733935632465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_16
+      rect:
+        serializedVersion: 2
+        x: 9065
+        y: 7318
+        width: 1028
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ae84b2c7086ac20800000000000000
+      internalID: 3217400254593296967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_17
+      rect:
+        serializedVersion: 2
+        x: 10538
+        y: 7318
+        width: 1028
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ba5f9a933dcc3e0800000000000000
+      internalID: -2032017087232889976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_18
+      rect:
+        serializedVersion: 2
+        x: 12011
+        y: 7318
+        width: 1028
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e51afc228d3abd0800000000000000
+      internalID: -2620012914175549804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_19
+      rect:
+        serializedVersion: 2
+        x: 13484
+        y: 7318
+        width: 1028
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a601a58ac92ab0f0800000000000000
+      internalID: -1100521209136609630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 6105
+        width: 1028
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bca4f965c7b0cf0800000000000000
+      internalID: -284997439926383831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_21
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 6104
+        width: 1020
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a5db72f348cdc60800000000000000
+      internalID: 7844290057757088353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_22
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 6104
+        width: 997
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b781f021a450ca0800000000000000
+      internalID: -6051349082879263853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_23
+      rect:
+        serializedVersion: 2
+        x: 4682
+        y: 6104
+        width: 956
+        height: 1085
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b0855a7f7e85ef0800000000000000
+      internalID: -119090339308368993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_24
+      rect:
+        serializedVersion: 2
+        x: 6184
+        y: 6104
+        width: 899
+        height: 1103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99aebf969bf039e0800000000000000
+      internalID: -1643537239646492260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_25
+      rect:
+        serializedVersion: 2
+        x: 7698
+        y: 6104
+        width: 829
+        height: 1124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a221453681fe3eb0800000000000000
+      internalID: -4738084199225810269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_26
+      rect:
+        serializedVersion: 2
+        x: 9204
+        y: 6103
+        width: 770
+        height: 1142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83abf46de47ac1f0800000000000000
+      internalID: -1023877402323082358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_27
+      rect:
+        serializedVersion: 2
+        x: 10741
+        y: 6100
+        width: 691
+        height: 1159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc08d45e503ebe430800000000000000
+      internalID: 3813391123960660173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_28
+      rect:
+        serializedVersion: 2
+        x: 12283
+        y: 6096
+        width: 622
+        height: 1175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be74637e14d137210800000000000000
+      internalID: 1329438483893602283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_29
+      rect:
+        serializedVersion: 2
+        x: 13851
+        y: 6089
+        width: 527
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc245db1bdf08a830800000000000000
+      internalID: 4082530495950570189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_30
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 4868
+        width: 435
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc6b1df7880b1400800000000000000
+      internalID: 295839580682939583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_31
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 4866
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc45c572739e9d7d0800000000000000
+      internalID: -2893024862515997492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_32
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 4868
+        width: 414
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a2d6ebbc200de90800000000000000
+      internalID: -7003094346464679274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_33
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 4877
+        width: 507
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb4f483862c6c350800000000000000
+      internalID: 6036726103413836727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_34
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 4883
+        width: 605
+        height: 1167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7073db490b368660800000000000000
+      internalID: 7387657149860769916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_35
+      rect:
+        serializedVersion: 2
+        x: 7984
+        y: 4888
+        width: 691
+        height: 1154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4ed321e5c91ef10800000000000000
+      internalID: 2297289212782568683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_36
+      rect:
+        serializedVersion: 2
+        x: 9413
+        y: 4891
+        width: 777
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931877c508adfcbe0800000000000000
+      internalID: -1454703909775376071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_37
+      rect:
+        serializedVersion: 2
+        x: 10863
+        y: 4891
+        width: 830
+        height: 1125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e021482ada0878e0800000000000000
+      internalID: -1695593327610486559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_38
+      rect:
+        serializedVersion: 2
+        x: 12308
+        y: 4891
+        width: 898
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f7e48f62818c810800000000000000
+      internalID: 1785703807906119473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_39
+      rect:
+        serializedVersion: 2
+        x: 13756
+        y: 4892
+        width: 949
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f44a3af2a208d0800000000000000
+      internalID: -2881561615960574056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_40
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 3678
+        width: 980
+        height: 1057
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8c04641b27c8960800000000000000
+      internalID: 7605579976435353847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_41
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 3678
+        width: 991
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d23e47ae018bb50800000000000000
+      internalID: 6609051052335639881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_42
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 3678
+        width: 986
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314012bf10eaac850800000000000000
+      internalID: 6398117544164656147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_43
+      rect:
+        serializedVersion: 2
+        x: 4906
+        y: 3678
+        width: 972
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5110598f2f564b2d0800000000000000
+      internalID: -3263871735709761259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_44
+      rect:
+        serializedVersion: 2
+        x: 6391
+        y: 3678
+        width: 948
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb28ef9b57c5743d0800000000000000
+      internalID: -3222505347658906946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_45
+      rect:
+        serializedVersion: 2
+        x: 7882
+        y: 3679
+        width: 913
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30090e33f47fecbd0800000000000000
+      internalID: -2607875214656106493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_46
+      rect:
+        serializedVersion: 2
+        x: 9377
+        y: 3679
+        width: 868
+        height: 1105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b52da4aeff6e9630800000000000000
+      internalID: 3935706263843579320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_47
+      rect:
+        serializedVersion: 2
+        x: 10867
+        y: 3678
+        width: 817
+        height: 1113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b41f6c349d165520800000000000000
+      internalID: 2690370349906728119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_48
+      rect:
+        serializedVersion: 2
+        x: 12366
+        y: 3677
+        width: 768
+        height: 1118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff5235363037e8c0800000000000000
+      internalID: -3970151537124941827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_49
+      rect:
+        serializedVersion: 2
+        x: 13869
+        y: 3675
+        width: 717
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e59b3af76fbfa30800000000000000
+      internalID: 4250261701422308929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2460
+        width: 667
+        height: 1134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604ceea97609a80a0800000000000000
+      internalID: -6878526706199641082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_51
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 2456
+        width: 628
+        height: 1143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4481c5bb63e913ef0800000000000000
+      internalID: -130148956308236220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_52
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 2453
+        width: 560
+        height: 1151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c54b601e99e93e0800000000000000
+      internalID: -2045027989020451712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_53
+      rect:
+        serializedVersion: 2
+        x: 5139
+        y: 2449
+        width: 497
+        height: 1159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7ad07bbc8100830800000000000000
+      internalID: 4035252529352517573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_54
+      rect:
+        serializedVersion: 2
+        x: 6638
+        y: 2445
+        width: 449
+        height: 1166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc08320c7317c0c0800000000000000
+      internalID: -4555651074727867200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_55
+      rect:
+        serializedVersion: 2
+        x: 8132
+        y: 2441
+        width: 406
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730968e720894eb30800000000000000
+      internalID: 4315741479407882295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_56
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 2440
+        width: 371
+        height: 1180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0edc3568530ecc0800000000000000
+      internalID: -3683885644141174550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_57
+      rect:
+        serializedVersion: 2
+        x: 11084
+        y: 2440
+        width: 367
+        height: 1186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0505d132b10b38a90800000000000000
+      internalID: -7312807739319824304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_58
+      rect:
+        serializedVersion: 2
+        x: 12546
+        y: 2440
+        width: 371
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcb5b19497a9eb60800000000000000
+      internalID: 7775930488173477085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_59
+      rect:
+        serializedVersion: 2
+        x: 14014
+        y: 2440
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4c63a71bf322740800000000000000
+      internalID: 5125729357393216728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_60
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1227
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4616a6f6ac19a290800000000000000
+      internalID: -7878734569679743414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_61
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1227
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448c4fa30e215ddc0800000000000000
+      internalID: -3614962371623860156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_62
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 1227
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a28a9af27387b30800000000000000
+      internalID: 4285235723292387868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_63
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 1227
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864b619ec0cc69930800000000000000
+      internalID: 4149728462490743912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_64
+      rect:
+        serializedVersion: 2
+        x: 6649
+        y: 1227
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9124246e38df0490800000000000000
+      internalID: -7777760268965895779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_65
+      rect:
+        serializedVersion: 2
+        x: 8122
+        y: 1227
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2733accba4a57d560800000000000000
+      internalID: 7338433394864960370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_66
+      rect:
+        serializedVersion: 2
+        x: 9595
+        y: 1227
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d58909b7b365bdf0800000000000000
+      internalID: -165116170594581036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_67
+      rect:
+        serializedVersion: 2
+        x: 11068
+        y: 1227
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5ac168fa7ce9460800000000000000
+      internalID: 7250452006796305905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_68
+      rect:
+        serializedVersion: 2
+        x: 12541
+        y: 1227
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc9606c353935a70800000000000000
+      internalID: 8814550883708083445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_69
+      rect:
+        serializedVersion: 2
+        x: 14014
+        y: 1227
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2c3ac5f9b1248c0800000000000000
+      internalID: -4016617546393075022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_70
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 14
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcb5d4d4e9119ae0800000000000000
+      internalID: -1544424726597354254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Panico_71
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 14
+        width: 373
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff04a9fcf350dadf0800000000000000
+      internalID: -167471839518768897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteSheet - Panico_0: -2806765583268422017
+      SpriteSheet - Panico_1: 1209606301160969199
+      SpriteSheet - Panico_10: -2109547438468570470
+      SpriteSheet - Panico_11: -3062979693925717691
+      SpriteSheet - Panico_12: -7583337621624398548
+      SpriteSheet - Panico_13: 1931542400412335416
+      SpriteSheet - Panico_14: -5804885306103091437
+      SpriteSheet - Panico_15: 7845031733935632465
+      SpriteSheet - Panico_16: 3217400254593296967
+      SpriteSheet - Panico_17: -2032017087232889976
+      SpriteSheet - Panico_18: -2620012914175549804
+      SpriteSheet - Panico_19: -1100521209136609630
+      SpriteSheet - Panico_2: -4368439354778220376
+      SpriteSheet - Panico_20: -284997439926383831
+      SpriteSheet - Panico_21: 7844290057757088353
+      SpriteSheet - Panico_22: -6051349082879263853
+      SpriteSheet - Panico_23: -119090339308368993
+      SpriteSheet - Panico_24: -1643537239646492260
+      SpriteSheet - Panico_25: -4738084199225810269
+      SpriteSheet - Panico_26: -1023877402323082358
+      SpriteSheet - Panico_27: 3813391123960660173
+      SpriteSheet - Panico_28: 1329438483893602283
+      SpriteSheet - Panico_29: 4082530495950570189
+      SpriteSheet - Panico_3: -4515148411657980540
+      SpriteSheet - Panico_30: 295839580682939583
+      SpriteSheet - Panico_31: -2893024862515997492
+      SpriteSheet - Panico_32: -7003094346464679274
+      SpriteSheet - Panico_33: 6036726103413836727
+      SpriteSheet - Panico_34: 7387657149860769916
+      SpriteSheet - Panico_35: 2297289212782568683
+      SpriteSheet - Panico_36: -1454703909775376071
+      SpriteSheet - Panico_37: -1695593327610486559
+      SpriteSheet - Panico_38: 1785703807906119473
+      SpriteSheet - Panico_39: -2881561615960574056
+      SpriteSheet - Panico_4: -1725638843765857304
+      SpriteSheet - Panico_40: 7605579976435353847
+      SpriteSheet - Panico_41: 6609051052335639881
+      SpriteSheet - Panico_42: 6398117544164656147
+      SpriteSheet - Panico_43: -3263871735709761259
+      SpriteSheet - Panico_44: -3222505347658906946
+      SpriteSheet - Panico_45: -2607875214656106493
+      SpriteSheet - Panico_46: 3935706263843579320
+      SpriteSheet - Panico_47: 2690370349906728119
+      SpriteSheet - Panico_48: -3970151537124941827
+      SpriteSheet - Panico_49: 4250261701422308929
+      SpriteSheet - Panico_5: 1152282692817844358
+      SpriteSheet - Panico_50: -6878526706199641082
+      SpriteSheet - Panico_51: -130148956308236220
+      SpriteSheet - Panico_52: -2045027989020451712
+      SpriteSheet - Panico_53: 4035252529352517573
+      SpriteSheet - Panico_54: -4555651074727867200
+      SpriteSheet - Panico_55: 4315741479407882295
+      SpriteSheet - Panico_56: -3683885644141174550
+      SpriteSheet - Panico_57: -7312807739319824304
+      SpriteSheet - Panico_58: 7775930488173477085
+      SpriteSheet - Panico_59: 5125729357393216728
+      SpriteSheet - Panico_6: 5112943659012339921
+      SpriteSheet - Panico_60: -7878734569679743414
+      SpriteSheet - Panico_61: -3614962371623860156
+      SpriteSheet - Panico_62: 4285235723292387868
+      SpriteSheet - Panico_63: 4149728462490743912
+      SpriteSheet - Panico_64: -7777760268965895779
+      SpriteSheet - Panico_65: 7338433394864960370
+      SpriteSheet - Panico_66: -165116170594581036
+      SpriteSheet - Panico_67: 7250452006796305905
+      SpriteSheet - Panico_68: 8814550883708083445
+      SpriteSheet - Panico_69: -4016617546393075022
+      SpriteSheet - Panico_7: 5108346369733847189
+      SpriteSheet - Panico_70: -1544424726597354254
+      SpriteSheet - Panico_71: -167471839518768897
+      SpriteSheet - Panico_8: 7847215419943777194
+      SpriteSheet - Panico_9: 3752322515378182940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

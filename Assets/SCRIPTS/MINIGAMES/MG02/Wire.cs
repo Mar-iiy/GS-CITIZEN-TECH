@@ -9,6 +9,9 @@ public class Wire : MonoBehaviour
     [Header("Sprite Render")]
     [SerializeField] private SpriteRenderer wireEnd;
     [SerializeField] private SpriteRenderer light;
+    [Header("Efeitos")]
+    [SerializeField] private AudioClip audioItem;
+    [SerializeField] private AudioSource audio;
 
     private WireID wireId;
     private Collider2D col;
@@ -50,6 +53,8 @@ public class Wire : MonoBehaviour
                     {
                         Debug.Log("FIOS CONECTADOS");
 
+                        PlaySound();
+
                         light.color = Color.green;
                         isConnected = true;
 
@@ -62,6 +67,12 @@ public class Wire : MonoBehaviour
         }
 
         UpdateWire(newPosition);
+    }
+
+    public void PlaySound()
+    {
+        audio.clip = audioItem;
+        audio.Play();
     }
 
     private void OnMouseUp()

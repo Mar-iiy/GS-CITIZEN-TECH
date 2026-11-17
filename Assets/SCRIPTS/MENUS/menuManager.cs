@@ -12,10 +12,6 @@ public class menuManager : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
-    public void OptionsMenu()
-    {
-        SceneManager.LoadScene(1);
-    }
     public void MenuGame()
     {
         SceneManager.LoadScene(0);

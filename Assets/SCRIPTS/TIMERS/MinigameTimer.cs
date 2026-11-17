@@ -13,6 +13,7 @@ public class MinigameTimer : MonoBehaviour
     [SerializeField] private TMP_Text timerText;
     [SerializeField] private GameObject timerPanel;
     [SerializeField] public float currentTime;
+    [SerializeField] public float timerTime;
     [SerializeField] private bool active;
 
 
@@ -22,6 +23,8 @@ public class MinigameTimer : MonoBehaviour
 
         timerText.gameObject.SetActive(false);
         active = false;
+
+        timerTime = 30f;
     }
 
     private void Update()
@@ -66,12 +69,24 @@ public class MinigameTimer : MonoBehaviour
             Debug.Log("TIMER ATIVADO");
 
             active = true;
-            currentTime = 15f;
+            currentTime = timerTime;
 
             timerPanel.SetActive(true);
             timerText.gameObject.SetActive(true);
 
             timerText.text = ("00:" + Mathf.CeilToInt(currentTime).ToString());
+        }
+    }
+
+    public void SetTimerTime(float newTime)
+    {
+        timerTime = newTime;
+
+        if (active)
+        {
+            StartTimer();
+            currentTime = timerTime;
+            timerText.text = "00:" + Mathf.CeilToInt(currentTime).ToString("00");
         }
     }
 

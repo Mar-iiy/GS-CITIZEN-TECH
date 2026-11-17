@@ -1,0 +1,2030 @@
+fileFormatVersion: 2
+guid: b86ec9ff0cd51764b9fb609f63c87ed3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7889202972913450697
+    second: SpriteSheet - Danca_Idle_0
+  - first:
+      213: -8157272848897569818
+    second: SpriteSheet - Danca_Idle_1
+  - first:
+      213: -5819048944379584618
+    second: SpriteSheet - Danca_Idle_2
+  - first:
+      213: -2614911577944277551
+    second: SpriteSheet - Danca_Idle_3
+  - first:
+      213: 2205997112505092871
+    second: SpriteSheet - Danca_Idle_4
+  - first:
+      213: -2054436850709028271
+    second: SpriteSheet - Danca_Idle_5
+  - first:
+      213: -700648062903384738
+    second: SpriteSheet - Danca_Idle_6
+  - first:
+      213: -1195837466664055719
+    second: SpriteSheet - Danca_Idle_7
+  - first:
+      213: -6689628594253517183
+    second: SpriteSheet - Danca_Idle_8
+  - first:
+      213: -2318445159040394561
+    second: SpriteSheet - Danca_Idle_9
+  - first:
+      213: 4043979802992733098
+    second: SpriteSheet - Danca_Idle_10
+  - first:
+      213: -8219931411119193671
+    second: SpriteSheet - Danca_Idle_11
+  - first:
+      213: -1285674617718340663
+    second: SpriteSheet - Danca_Idle_12
+  - first:
+      213: 6859203601866207134
+    second: SpriteSheet - Danca_Idle_13
+  - first:
+      213: 1533905168792729156
+    second: SpriteSheet - Danca_Idle_14
+  - first:
+      213: 1471541491800134454
+    second: SpriteSheet - Danca_Idle_15
+  - first:
+      213: -9116410189560322289
+    second: SpriteSheet - Danca_Idle_16
+  - first:
+      213: -4656765395469130151
+    second: SpriteSheet - Danca_Idle_17
+  - first:
+      213: -8300794995441842121
+    second: SpriteSheet - Danca_Idle_18
+  - first:
+      213: -6409916297793884446
+    second: SpriteSheet - Danca_Idle_19
+  - first:
+      213: -3045300995986384413
+    second: SpriteSheet - Danca_Idle_20
+  - first:
+      213: 721335000186595902
+    second: SpriteSheet - Danca_Idle_21
+  - first:
+      213: -4570405380866589871
+    second: SpriteSheet - Danca_Idle_22
+  - first:
+      213: 4541737486618385079
+    second: SpriteSheet - Danca_Idle_23
+  - first:
+      213: 4123457942322164899
+    second: SpriteSheet - Danca_Idle_24
+  - first:
+      213: -862236798581063420
+    second: SpriteSheet - Danca_Idle_25
+  - first:
+      213: -1179376484422548963
+    second: SpriteSheet - Danca_Idle_26
+  - first:
+      213: 5019679456556198550
+    second: SpriteSheet - Danca_Idle_27
+  - first:
+      213: 4871185685267925896
+    second: SpriteSheet - Danca_Idle_28
+  - first:
+      213: -1020330081403009897
+    second: SpriteSheet - Danca_Idle_29
+  - first:
+      213: 7247150289729909492
+    second: SpriteSheet - Danca_Idle_30
+  - first:
+      213: -1483701913435954926
+    second: SpriteSheet - Danca_Idle_31
+  - first:
+      213: 5645236639435081396
+    second: SpriteSheet - Danca_Idle_32
+  - first:
+      213: 1840053300133264214
+    second: SpriteSheet - Danca_Idle_33
+  - first:
+      213: 2628041877391866634
+    second: SpriteSheet - Danca_Idle_34
+  - first:
+      213: -871760664642073488
+    second: SpriteSheet - Danca_Idle_35
+  - first:
+      213: 5605318264519788509
+    second: SpriteSheet - Danca_Idle_36
+  - first:
+      213: -4821812685970797750
+    second: SpriteSheet - Danca_Idle_37
+  - first:
+      213: 1506993502330885837
+    second: SpriteSheet - Danca_Idle_38
+  - first:
+      213: -8564245910250648720
+    second: SpriteSheet - Danca_Idle_39
+  - first:
+      213: 746446176752498179
+    second: SpriteSheet - Danca_Idle_40
+  - first:
+      213: -7190223652980891427
+    second: SpriteSheet - Danca_Idle_41
+  - first:
+      213: 8863047708298191070
+    second: SpriteSheet - Danca_Idle_42
+  - first:
+      213: -2391614229061255424
+    second: SpriteSheet - Danca_Idle_43
+  - first:
+      213: 7897890846524628255
+    second: SpriteSheet - Danca_Idle_44
+  - first:
+      213: -2443520307647736793
+    second: SpriteSheet - Danca_Idle_45
+  - first:
+      213: -2760853225592050115
+    second: SpriteSheet - Danca_Idle_46
+  - first:
+      213: 885885936021706013
+    second: SpriteSheet - Danca_Idle_47
+  - first:
+      213: -4677753386701031375
+    second: SpriteSheet - Danca_Idle_48
+  - first:
+      213: 7381652525117765153
+    second: SpriteSheet - Danca_Idle_49
+  - first:
+      213: 5046918973320713400
+    second: SpriteSheet - Danca_Idle_50
+  - first:
+      213: -417446550187007555
+    second: SpriteSheet - Danca_Idle_51
+  - first:
+      213: -5885560323674077149
+    second: SpriteSheet - Danca_Idle_52
+  - first:
+      213: 7721766651762314348
+    second: SpriteSheet - Danca_Idle_53
+  - first:
+      213: -9213127032341077073
+    second: SpriteSheet - Danca_Idle_54
+  - first:
+      213: 8122103030008576478
+    second: SpriteSheet - Danca_Idle_55
+  - first:
+      213: -7532185095659438463
+    second: SpriteSheet - Danca_Idle_56
+  - first:
+      213: 1267261320835220384
+    second: SpriteSheet - Danca_Idle_57
+  - first:
+      213: 124740364866430911
+    second: SpriteSheet - Danca_Idle_58
+  - first:
+      213: -4003943515949743366
+    second: SpriteSheet - Danca_Idle_59
+  - first:
+      213: 3691207450292210986
+    second: SpriteSheet - Danca_Idle_60
+  - first:
+      213: -4676895268503930160
+    second: SpriteSheet - Danca_Idle_61
+  - first:
+      213: 7586661570056513352
+    second: SpriteSheet - Danca_Idle_62
+  - first:
+      213: -5640393363295308989
+    second: SpriteSheet - Danca_Idle_63
+  - first:
+      213: 1845861292001147366
+    second: SpriteSheet - Danca_Idle_64
+  - first:
+      213: -8576206007375466358
+    second: SpriteSheet - Danca_Idle_65
+  - first:
+      213: -166622958906383115
+    second: SpriteSheet - Danca_Idle_66
+  - first:
+      213: 5958448130974950643
+    second: SpriteSheet - Danca_Idle_67
+  - first:
+      213: -4327251554355413246
+    second: SpriteSheet - Danca_Idle_68
+  - first:
+      213: 9081149812811223004
+    second: SpriteSheet - Danca_Idle_69
+  - first:
+      213: 8664160180604103304
+    second: SpriteSheet - Danca_Idle_70
+  - first:
+      213: -6527172111369716928
+    second: SpriteSheet - Danca_Idle_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 7826
+        width: 566
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce36791e441c7d60800000000000000
+      internalID: 7889202972913450697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 7826
+        width: 570
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb8581209b8bce80800000000000000
+      internalID: -8157272848897569818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 7826
+        width: 582
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f94a3d0d59e3fa0800000000000000
+      internalID: -5819048944379584618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 7826
+        width: 597
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd339536c7f5bbd0800000000000000
+      internalID: -2614911577944277551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 4298
+        y: 7826
+        width: 613
+        height: 1084
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b476a9fa64d9e10800000000000000
+      internalID: 2205997112505092871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 7826
+        width: 630
+        height: 1088
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1522404b19c2d73e0800000000000000
+      internalID: -2054436850709028271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 7826
+        width: 642
+        height: 1088
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55041a8c4cc646f0800000000000000
+      internalID: -700648062903384738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 7225
+        y: 7826
+        width: 646
+        height: 1088
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cc26ee828876fe0800000000000000
+      internalID: -1195837466664055719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 8208
+        y: 7826
+        width: 647
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e29389c3aa923a0800000000000000
+      internalID: -6689628594253517183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 9194
+        y: 7826
+        width: 644
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba5c28596a33dfd0800000000000000
+      internalID: -2318445159040394561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 6710
+        width: 642
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab6c34743a1f1830800000000000000
+      internalID: 4043979802992733098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 6710
+        width: 640
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b14a22ceefeced80800000000000000
+      internalID: -8219931411119193671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 6710
+        width: 641
+        height: 1078
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3892a3fbd582ee0800000000000000
+      internalID: -1285674617718340663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 6710
+        width: 640
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fa0539559c03f50800000000000000
+      internalID: 6859203601866207134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 6710
+        width: 641
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446b601cf96894510800000000000000
+      internalID: 1533905168792729156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 6710
+        width: 642
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633def2b037fb6410800000000000000
+      internalID: 1471541491800134454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 6232
+        y: 6710
+        width: 643
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f076180cb310c7180800000000000000
+      internalID: -9116410189560322289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 7217
+        y: 6710
+        width: 642
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9562bb0ab88df5fb0800000000000000
+      internalID: -4656765395469130151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 8203
+        y: 6710
+        width: 639
+        height: 1073
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738495f5ee6adcc80800000000000000
+      internalID: -8300794995441842121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 9191
+        y: 6710
+        width: 634
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee220e96176b07a0800000000000000
+      internalID: -6409916297793884446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 5594
+        width: 629
+        height: 1065
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9961cf0eaecb5d0800000000000000
+      internalID: -3045300995986384413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 5594
+        width: 626
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3aad226c52b20a00800000000000000
+      internalID: 721335000186595902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 5594
+        width: 624
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bb9e96588a290c0800000000000000
+      internalID: -4570405380866589871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 5594
+        width: 621
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bad6f05e2e770f30800000000000000
+      internalID: 4541737486618385079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 4266
+        y: 5594
+        width: 620
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4306ac627793930800000000000000
+      internalID: 4123457942322164899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 5252
+        y: 5594
+        width: 619
+        height: 1065
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4014e443338b804f0800000000000000
+      internalID: -862236798581063420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 6237
+        y: 5594
+        width: 620
+        height: 1067
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d128b85065302afe0800000000000000
+      internalID: -1179376484422548963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 7222
+        y: 5594
+        width: 623
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69aab5ecedb79a540800000000000000
+      internalID: 5019679456556198550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 8205
+        y: 5594
+        width: 626
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bcc55729de99340800000000000000
+      internalID: 4871185685267925896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 9188
+        y: 5594
+        width: 631
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7940458623f07d1f0800000000000000
+      internalID: -1020330081403009897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 4478
+        width: 637
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2783d9acc039460800000000000000
+      internalID: 7247150289729909492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 4478
+        width: 643
+        height: 1087
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211251188f4d86be0800000000000000
+      internalID: -1483701913435954926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 4478
+        width: 649
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b64c8650d8e75e40800000000000000
+      internalID: 5645236639435081396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 4478
+        width: 655
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b7a3a3abe298910800000000000000
+      internalID: 1840053300133264214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 4478
+        width: 660
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bfaccd92ea87420800000000000000
+      internalID: 2628041877391866634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 5231
+        y: 4478
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cc9d65b42e6e3f0800000000000000
+      internalID: -871760664642073488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 6220
+        y: 4478
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd706b963471acd40800000000000000
+      internalID: 5605318264519788509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 4478
+        width: 660
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b0d3fb8ea751db0800000000000000
+      internalID: -4821812685970797750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 8202
+        y: 4478
+        width: 656
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc611412b9ae9e410800000000000000
+      internalID: 1506993502330885837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 9188
+        y: 4478
+        width: 656
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b0b6e48bfa52980800000000000000
+      internalID: -8564245910250648720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3362
+        width: 658
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306f749c7d8eb5a00800000000000000
+      internalID: 746446176752498179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 3362
+        width: 660
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0667cdea1373c90800000000000000
+      internalID: -7190223652980891427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 3362
+        width: 661
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed02478aeeedffa70800000000000000
+      internalID: 8863047708298191070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 3362
+        width: 660
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fb80da7874fced0800000000000000
+      internalID: -2391614229061255424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 3362
+        width: 659
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dd8ed41e1fa9d60800000000000000
+      internalID: 7897890846524628255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 5244
+        y: 3362
+        width: 657
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724143df93fd61ed0800000000000000
+      internalID: -2443520307647736793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 6232
+        y: 3362
+        width: 655
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e28937e9a7fa9d0800000000000000
+      internalID: -2760853225592050115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 7221
+        y: 3362
+        width: 652
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d159610b09c4b4c00800000000000000
+      internalID: 885885936021706013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 8208
+        y: 3362
+        width: 651
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138fdce1418451fb0800000000000000
+      internalID: -4677753386701031375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 9196
+        y: 3362
+        width: 650
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1267207acd5e07660800000000000000
+      internalID: 7381652525117765153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2246
+        width: 649
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4d5f601124a0640800000000000000
+      internalID: 5046918973320713400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2246
+        width: 650
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db12467039ee43af0800000000000000
+      internalID: -417446550187007555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 2246
+        width: 651
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3280643911a425ea0800000000000000
+      internalID: -5885560323674077149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 2246
+        width: 652
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c00ccabd9392b60800000000000000
+      internalID: 7721766651762314348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 2246
+        width: 655
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3e2cef6c5642080800000000000000
+      internalID: -9213127032341077073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 5244
+        y: 2246
+        width: 657
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9f8cc4ca187b070800000000000000
+      internalID: 8122103030008576478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 6227
+        y: 2246
+        width: 659
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e3abe009d487790800000000000000
+      internalID: -7532185095659438463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 7211
+        y: 2246
+        width: 660
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3c9f10577369110800000000000000
+      internalID: 1267261320835220384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 8195
+        y: 2246
+        width: 661
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7240173ba2bb100800000000000000
+      internalID: 124740364866430911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 9179
+        y: 2246
+        width: 662
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2461706922f68c0800000000000000
+      internalID: -4003943515949743366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1130
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d41f28e9dc93330800000000000000
+      internalID: 3691207450292210986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1130
+        width: 663
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da3e155884581fb0800000000000000
+      internalID: -4676895268503930160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1130
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847635a808c394960800000000000000
+      internalID: 7586661570056513352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 1130
+        width: 663
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343ff43ce1c49b1b0800000000000000
+      internalID: -5640393363295308989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_64
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 1130
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e93f56b011dd9910800000000000000
+      internalID: 1845861292001147366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_65
+      rect:
+        serializedVersion: 2
+        x: 5231
+        y: 1130
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8070d133123bf880800000000000000
+      internalID: -8576206007375466358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_66
+      rect:
+        serializedVersion: 2
+        x: 6217
+        y: 1130
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4e5fa3d4900bdf0800000000000000
+      internalID: -166622958906383115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_67
+      rect:
+        serializedVersion: 2
+        x: 7203
+        y: 1130
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f42a538109a0b250800000000000000
+      internalID: 5958448130974950643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_68
+      rect:
+        serializedVersion: 2
+        x: 8189
+        y: 1130
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f73e853a382f3c0800000000000000
+      internalID: -4327251554355413246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_69
+      rect:
+        serializedVersion: 2
+        x: 9175
+        y: 1130
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfc7b804a9b60e70800000000000000
+      internalID: 9081149812811223004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_70
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 14
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aedf197c74d3870800000000000000
+      internalID: 8664160180604103304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Danca_Idle_71
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 14
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bb8f11c83da65a0800000000000000
+      internalID: -6527172111369716928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteSheet - Danca_Idle_0: 7889202972913450697
+      SpriteSheet - Danca_Idle_1: -8157272848897569818
+      SpriteSheet - Danca_Idle_10: 4043979802992733098
+      SpriteSheet - Danca_Idle_11: -8219931411119193671
+      SpriteSheet - Danca_Idle_12: -1285674617718340663
+      SpriteSheet - Danca_Idle_13: 6859203601866207134
+      SpriteSheet - Danca_Idle_14: 1533905168792729156
+      SpriteSheet - Danca_Idle_15: 1471541491800134454
+      SpriteSheet - Danca_Idle_16: -9116410189560322289
+      SpriteSheet - Danca_Idle_17: -4656765395469130151
+      SpriteSheet - Danca_Idle_18: -8300794995441842121
+      SpriteSheet - Danca_Idle_19: -6409916297793884446
+      SpriteSheet - Danca_Idle_2: -5819048944379584618
+      SpriteSheet - Danca_Idle_20: -3045300995986384413
+      SpriteSheet - Danca_Idle_21: 721335000186595902
+      SpriteSheet - Danca_Idle_22: -4570405380866589871
+      SpriteSheet - Danca_Idle_23: 4541737486618385079
+      SpriteSheet - Danca_Idle_24: 4123457942322164899
+      SpriteSheet - Danca_Idle_25: -862236798581063420
+      SpriteSheet - Danca_Idle_26: -1179376484422548963
+      SpriteSheet - Danca_Idle_27: 5019679456556198550
+      SpriteSheet - Danca_Idle_28: 4871185685267925896
+      SpriteSheet - Danca_Idle_29: -1020330081403009897
+      SpriteSheet - Danca_Idle_3: -2614911577944277551
+      SpriteSheet - Danca_Idle_30: 7247150289729909492
+      SpriteSheet - Danca_Idle_31: -1483701913435954926
+      SpriteSheet - Danca_Idle_32: 5645236639435081396
+      SpriteSheet - Danca_Idle_33: 1840053300133264214
+      SpriteSheet - Danca_Idle_34: 2628041877391866634
+      SpriteSheet - Danca_Idle_35: -871760664642073488
+      SpriteSheet - Danca_Idle_36: 5605318264519788509
+      SpriteSheet - Danca_Idle_37: -4821812685970797750
+      SpriteSheet - Danca_Idle_38: 1506993502330885837
+      SpriteSheet - Danca_Idle_39: -8564245910250648720
+      SpriteSheet - Danca_Idle_4: 2205997112505092871
+      SpriteSheet - Danca_Idle_40: 746446176752498179
+      SpriteSheet - Danca_Idle_41: -7190223652980891427
+      SpriteSheet - Danca_Idle_42: 8863047708298191070
+      SpriteSheet - Danca_Idle_43: -2391614229061255424
+      SpriteSheet - Danca_Idle_44: 7897890846524628255
+      SpriteSheet - Danca_Idle_45: -2443520307647736793
+      SpriteSheet - Danca_Idle_46: -2760853225592050115
+      SpriteSheet - Danca_Idle_47: 885885936021706013
+      SpriteSheet - Danca_Idle_48: -4677753386701031375
+      SpriteSheet - Danca_Idle_49: 7381652525117765153
+      SpriteSheet - Danca_Idle_5: -2054436850709028271
+      SpriteSheet - Danca_Idle_50: 5046918973320713400
+      SpriteSheet - Danca_Idle_51: -417446550187007555
+      SpriteSheet - Danca_Idle_52: -5885560323674077149
+      SpriteSheet - Danca_Idle_53: 7721766651762314348
+      SpriteSheet - Danca_Idle_54: -9213127032341077073
+      SpriteSheet - Danca_Idle_55: 8122103030008576478
+      SpriteSheet - Danca_Idle_56: -7532185095659438463
+      SpriteSheet - Danca_Idle_57: 1267261320835220384
+      SpriteSheet - Danca_Idle_58: 124740364866430911
+      SpriteSheet - Danca_Idle_59: -4003943515949743366
+      SpriteSheet - Danca_Idle_6: -700648062903384738
+      SpriteSheet - Danca_Idle_60: 3691207450292210986
+      SpriteSheet - Danca_Idle_61: -4676895268503930160
+      SpriteSheet - Danca_Idle_62: 7586661570056513352
+      SpriteSheet - Danca_Idle_63: -5640393363295308989
+      SpriteSheet - Danca_Idle_64: 1845861292001147366
+      SpriteSheet - Danca_Idle_65: -8576206007375466358
+      SpriteSheet - Danca_Idle_66: -166622958906383115
+      SpriteSheet - Danca_Idle_67: 5958448130974950643
+      SpriteSheet - Danca_Idle_68: -4327251554355413246
+      SpriteSheet - Danca_Idle_69: 9081149812811223004
+      SpriteSheet - Danca_Idle_7: -1195837466664055719
+      SpriteSheet - Danca_Idle_70: 8664160180604103304
+      SpriteSheet - Danca_Idle_71: -6527172111369716928
+      SpriteSheet - Danca_Idle_8: -6689628594253517183
+      SpriteSheet - Danca_Idle_9: -2318445159040394561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

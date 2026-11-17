@@ -4,6 +4,7 @@ public class DayManager : MonoBehaviour
 {
     [SerializeField] private LvlManager lvlManager;
     [SerializeField] private LvlTimer lvlTimer;
+    [SerializeField] private MinigameTimer mgTimer;
     [SerializeField] private TutorialDialogue tutorialDialogue;
 
 
@@ -58,18 +59,22 @@ public class DayManager : MonoBehaviour
         {
             case 1:
                 lvlTimer.SetDayTime(13, 0, 17);
+                mgTimer.SetTimerTime(30f);
                 break;
 
             case 2:
                 lvlTimer.SetDayTime(6, 0, 9);
+                mgTimer.SetTimerTime(30f);
                 break;
 
             case 3:
                 lvlTimer.SetDayTime(9, 0, 12);
+                mgTimer.SetTimerTime(15f);
                 break;
 
             case 4:
                 lvlTimer.SetDayTime(18, 0, 20);
+                mgTimer.SetTimerTime(15f);
                 break;
         }
 

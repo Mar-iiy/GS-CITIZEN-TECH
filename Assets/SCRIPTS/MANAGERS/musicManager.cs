@@ -8,8 +8,7 @@ public class musicManager : MonoBehaviour
     public AudioSource audioSource;
 
     public AudioClip menuMusic;
-    public AudioClip happyLevelMusic;
-    public AudioClip sadLevelMusic;
+    public AudioClip LevelMusic;
 
     private void Awake()
     {
@@ -34,21 +33,11 @@ public class musicManager : MonoBehaviour
         switch (scene.name)
         {
             case "MENU":
-            case "OPTIONS":
                 PlayMusic(menuMusic);
                 break;
 
-            case "LEVEL01":
-            case "LEVEL02":
-            case "LEVEL03":
-                PlayMusic(happyLevelMusic);
-                break;
-
-            case "LEVEL04":
-            case "LEVEL05":
-            case "LEVEL06":
-            case "LEVEL07":
-                PlayMusic(sadLevelMusic);
+            case "SampleScene":
+                PlayMusic(LevelMusic);
                 break;
         }
     }

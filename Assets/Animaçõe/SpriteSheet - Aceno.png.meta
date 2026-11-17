@@ -1,0 +1,2030 @@
+fileFormatVersion: 2
+guid: 60ed23a2066b55748a613a31c455f65e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -842836839562450947
+    second: SpriteSheet - Aceno_0
+  - first:
+      213: 527793046174014617
+    second: SpriteSheet - Aceno_1
+  - first:
+      213: 6728464532318743791
+    second: SpriteSheet - Aceno_2
+  - first:
+      213: 2464489801276231703
+    second: SpriteSheet - Aceno_3
+  - first:
+      213: 4803619956215662556
+    second: SpriteSheet - Aceno_4
+  - first:
+      213: 5850321069836609134
+    second: SpriteSheet - Aceno_5
+  - first:
+      213: 8875838204930215649
+    second: SpriteSheet - Aceno_6
+  - first:
+      213: 1918225750202910375
+    second: SpriteSheet - Aceno_7
+  - first:
+      213: 1143506594078483101
+    second: SpriteSheet - Aceno_8
+  - first:
+      213: 964184443024467669
+    second: SpriteSheet - Aceno_9
+  - first:
+      213: -2737642129278718018
+    second: SpriteSheet - Aceno_10
+  - first:
+      213: -8164758116015930550
+    second: SpriteSheet - Aceno_11
+  - first:
+      213: -712279647275369270
+    second: SpriteSheet - Aceno_12
+  - first:
+      213: -4454112671907267024
+    second: SpriteSheet - Aceno_13
+  - first:
+      213: -7982491282753619103
+    second: SpriteSheet - Aceno_14
+  - first:
+      213: 3191502936745388043
+    second: SpriteSheet - Aceno_15
+  - first:
+      213: 8350531200021380547
+    second: SpriteSheet - Aceno_16
+  - first:
+      213: -1381657076457371135
+    second: SpriteSheet - Aceno_17
+  - first:
+      213: -3026393649665301118
+    second: SpriteSheet - Aceno_18
+  - first:
+      213: -6919452439666325358
+    second: SpriteSheet - Aceno_19
+  - first:
+      213: -5221712925985322181
+    second: SpriteSheet - Aceno_20
+  - first:
+      213: -6383292700151948943
+    second: SpriteSheet - Aceno_21
+  - first:
+      213: -6286924833219289346
+    second: SpriteSheet - Aceno_22
+  - first:
+      213: -4087052212550639619
+    second: SpriteSheet - Aceno_23
+  - first:
+      213: 3069650089157433409
+    second: SpriteSheet - Aceno_24
+  - first:
+      213: -1288836745441891363
+    second: SpriteSheet - Aceno_25
+  - first:
+      213: 4483989544020001495
+    second: SpriteSheet - Aceno_26
+  - first:
+      213: 8097319732944617800
+    second: SpriteSheet - Aceno_27
+  - first:
+      213: -2572782233005054199
+    second: SpriteSheet - Aceno_28
+  - first:
+      213: -1906010369862721070
+    second: SpriteSheet - Aceno_29
+  - first:
+      213: 1224955148939881344
+    second: SpriteSheet - Aceno_30
+  - first:
+      213: 7210590570071091764
+    second: SpriteSheet - Aceno_31
+  - first:
+      213: -7482230557286465311
+    second: SpriteSheet - Aceno_32
+  - first:
+      213: -5785848108260961079
+    second: SpriteSheet - Aceno_33
+  - first:
+      213: -3694486423292280657
+    second: SpriteSheet - Aceno_34
+  - first:
+      213: 655861530960704803
+    second: SpriteSheet - Aceno_35
+  - first:
+      213: -695661625363059358
+    second: SpriteSheet - Aceno_36
+  - first:
+      213: -5582841823422280270
+    second: SpriteSheet - Aceno_37
+  - first:
+      213: 8258349454157552438
+    second: SpriteSheet - Aceno_38
+  - first:
+      213: 6423597641067633680
+    second: SpriteSheet - Aceno_39
+  - first:
+      213: 8000488616523807030
+    second: SpriteSheet - Aceno_40
+  - first:
+      213: -5389798453092227155
+    second: SpriteSheet - Aceno_41
+  - first:
+      213: 5332583650452176479
+    second: SpriteSheet - Aceno_42
+  - first:
+      213: 6608352691390907470
+    second: SpriteSheet - Aceno_43
+  - first:
+      213: 253224732766668861
+    second: SpriteSheet - Aceno_44
+  - first:
+      213: 8738739711240325665
+    second: SpriteSheet - Aceno_45
+  - first:
+      213: 8392744098904310241
+    second: SpriteSheet - Aceno_46
+  - first:
+      213: 2920352134756176228
+    second: SpriteSheet - Aceno_47
+  - first:
+      213: 2794459579982937027
+    second: SpriteSheet - Aceno_48
+  - first:
+      213: -4471967572886667488
+    second: SpriteSheet - Aceno_49
+  - first:
+      213: -5187670567724305048
+    second: SpriteSheet - Aceno_50
+  - first:
+      213: -8926963437720026527
+    second: SpriteSheet - Aceno_51
+  - first:
+      213: -4489542445325875634
+    second: SpriteSheet - Aceno_52
+  - first:
+      213: 1729069243310063012
+    second: SpriteSheet - Aceno_53
+  - first:
+      213: -133144212392070168
+    second: SpriteSheet - Aceno_54
+  - first:
+      213: 3480195843391303839
+    second: SpriteSheet - Aceno_55
+  - first:
+      213: -2780781420434968979
+    second: SpriteSheet - Aceno_56
+  - first:
+      213: 1052926737070093751
+    second: SpriteSheet - Aceno_57
+  - first:
+      213: 2599145876931656698
+    second: SpriteSheet - Aceno_58
+  - first:
+      213: 3685977486043783077
+    second: SpriteSheet - Aceno_59
+  - first:
+      213: 1251666538486482291
+    second: SpriteSheet - Aceno_60
+  - first:
+      213: -6557118792420232059
+    second: SpriteSheet - Aceno_61
+  - first:
+      213: -5922287164776238879
+    second: SpriteSheet - Aceno_62
+  - first:
+      213: -5590610046974183986
+    second: SpriteSheet - Aceno_63
+  - first:
+      213: -5761798425591900321
+    second: SpriteSheet - Aceno_64
+  - first:
+      213: 1946648536683477681
+    second: SpriteSheet - Aceno_65
+  - first:
+      213: 3324467774049036225
+    second: SpriteSheet - Aceno_66
+  - first:
+      213: -4778493484030112365
+    second: SpriteSheet - Aceno_67
+  - first:
+      213: -1722370950663738692
+    second: SpriteSheet - Aceno_68
+  - first:
+      213: 7058973968979481630
+    second: SpriteSheet - Aceno_69
+  - first:
+      213: -8344282971257682432
+    second: SpriteSheet - Aceno_70
+  - first:
+      213: -4395173995489100385
+    second: SpriteSheet - Aceno_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_0
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 7847
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df764462c54ad44f0800000000000000
+      internalID: -842836839562450947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_1
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 7847
+        width: 673
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c9f18aaf8135700800000000000000
+      internalID: 527793046174014617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_2
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 7847
+        width: 696
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec6cacd7de406d50800000000000000
+      internalID: 6728464532318743791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_3
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 7847
+        width: 695
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71094a5ba60a33220800000000000000
+      internalID: 2464489801276231703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_4
+      rect:
+        serializedVersion: 2
+        x: 4830
+        y: 7847
+        width: 607
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7463646e2e9a240800000000000000
+      internalID: 4803619956215662556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_5
+      rect:
+        serializedVersion: 2
+        x: 5910
+        y: 7847
+        width: 665
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6628954404803150800000000000000
+      internalID: 5850321069836609134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_6
+      rect:
+        serializedVersion: 2
+        x: 7002
+        y: 7847
+        width: 699
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eec4b832df4d2b70800000000000000
+      internalID: 8875838204930215649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_7
+      rect:
+        serializedVersion: 2
+        x: 8101
+        y: 7847
+        width: 719
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a60ad71828ee9a10800000000000000
+      internalID: 1918225750202910375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_8
+      rect:
+        serializedVersion: 2
+        x: 9206
+        y: 7847
+        width: 725
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d926d52503d8edf00800000000000000
+      internalID: 1143506594078483101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_9
+      rect:
+        serializedVersion: 2
+        x: 10316
+        y: 7847
+        width: 723
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d66e6874a8716d00800000000000000
+      internalID: 964184443024467669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 6730
+        width: 724
+        height: 1088
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfa232fcf0f10ad0800000000000000
+      internalID: -2737642129278718018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_11
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 6731
+        width: 725
+        height: 1087
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4302e190c3f0be80800000000000000
+      internalID: -8164758116015930550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_12
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 6733
+        width: 716
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc39634f697d16f0800000000000000
+      internalID: -712279647275369270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_13
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 6734
+        width: 697
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eb661bf10df22c0800000000000000
+      internalID: -4454112671907267024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_14
+      rect:
+        serializedVersion: 2
+        x: 4767
+        y: 6735
+        width: 702
+        height: 1087
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b71dca87e783190800000000000000
+      internalID: -7982491282753619103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_15
+      rect:
+        serializedVersion: 2
+        x: 5869
+        y: 6736
+        width: 711
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08235cf20f7a4c20800000000000000
+      internalID: 3191502936745388043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_16
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 6737
+        width: 716
+        height: 1087
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd371722eb03e370800000000000000
+      internalID: 8350531200021380547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_17
+      rect:
+        serializedVersion: 2
+        x: 8076
+        y: 6738
+        width: 721
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a8a54953e53dce0800000000000000
+      internalID: -1381657076457371135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_18
+      rect:
+        serializedVersion: 2
+        x: 9181
+        y: 6739
+        width: 725
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285a33992071006d0800000000000000
+      internalID: -3026393649665301118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_19
+      rect:
+        serializedVersion: 2
+        x: 10287
+        y: 6740
+        width: 725
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2988a7dbaaa29ff90800000000000000
+      internalID: -6919452439666325358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 5621
+        width: 723
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b449772cfb887b0800000000000000
+      internalID: -5221712925985322181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_21
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 5622
+        width: 721
+        height: 1085
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179591efb1df967a0800000000000000
+      internalID: -6383292700151948943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_22
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 5622
+        width: 722
+        height: 1085
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efed16a7c2b50c8a0800000000000000
+      internalID: -6286924833219289346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_23
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 5622
+        width: 730
+        height: 1085
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffd174baafd747c0800000000000000
+      internalID: -4087052212550639619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_24
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 5622
+        width: 737
+        height: 1085
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14899fc0e76999a20800000000000000
+      internalID: 3069650089157433409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_25
+      rect:
+        serializedVersion: 2
+        x: 5847
+        y: 5622
+        width: 739
+        height: 1085
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb277efec12d1ee0800000000000000
+      internalID: -1288836745441891363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_26
+      rect:
+        serializedVersion: 2
+        x: 6962
+        y: 5622
+        width: 725
+        height: 1085
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2c0ebabb45a3e30800000000000000
+      internalID: 4483989544020001495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_27
+      rect:
+        serializedVersion: 2
+        x: 8073
+        y: 5622
+        width: 711
+        height: 1085
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841ccea45657f5070800000000000000
+      internalID: 8097319732944617800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_28
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 5622
+        width: 711
+        height: 1085
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9072c45b034ab4cd0800000000000000
+      internalID: -2572782233005054199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_29
+      rect:
+        serializedVersion: 2
+        x: 10290
+        y: 5621
+        width: 708
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d12f16caad7c85e0800000000000000
+      internalID: -1906010369862721070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4502
+        width: 704
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08be856c73aeff010800000000000000
+      internalID: 1224955148939881344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_31
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 4502
+        width: 701
+        height: 1087
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a6edd8be9211460800000000000000
+      internalID: 7210590570071091764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_32
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 4502
+        width: 701
+        height: 1087
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e00e5163f6c92890800000000000000
+      internalID: -7482230557286465311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_33
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 4502
+        width: 703
+        height: 1087
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c45dbedcc984bfa0800000000000000
+      internalID: -5785848108260961079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_34
+      rect:
+        serializedVersion: 2
+        x: 4754
+        y: 4501
+        width: 703
+        height: 1088
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa009281c2c8abcc0800000000000000
+      internalID: -3694486423292280657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_35
+      rect:
+        serializedVersion: 2
+        x: 5863
+        y: 4500
+        width: 703
+        height: 1089
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325b1c666961a1900800000000000000
+      internalID: 655861530960704803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_36
+      rect:
+        serializedVersion: 2
+        x: 6971
+        y: 4500
+        width: 702
+        height: 1089
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d2d5000738856f0800000000000000
+      internalID: -695661625363059358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_37
+      rect:
+        serializedVersion: 2
+        x: 8081
+        y: 4500
+        width: 700
+        height: 1089
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd88b5d0f2c582b0800000000000000
+      internalID: -5582841823422280270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_38
+      rect:
+        serializedVersion: 2
+        x: 9190
+        y: 4499
+        width: 699
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b1a1ee21d8b9270800000000000000
+      internalID: 8258349454157552438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_39
+      rect:
+        serializedVersion: 2
+        x: 10299
+        y: 4499
+        width: 698
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c9fd75504352950800000000000000
+      internalID: 6423597641067633680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_40
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3379
+        width: 700
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63935712202770f60800000000000000
+      internalID: 8000488616523807030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_41
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 3379
+        width: 703
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7ec700dd69335b0800000000000000
+      internalID: -5389798453092227155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_42
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 3378
+        width: 708
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ef14ca394210a40800000000000000
+      internalID: 5332583650452176479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_43
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 3377
+        width: 711
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e440ad0a2c595bb50800000000000000
+      internalID: 6608352691390907470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_44
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 3377
+        width: 713
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3886e48d82a38300800000000000000
+      internalID: 253224732766668861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_45
+      rect:
+        serializedVersion: 2
+        x: 5866
+        y: 3376
+        width: 718
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a4411b77d364970800000000000000
+      internalID: 8738739711240325665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_46
+      rect:
+        serializedVersion: 2
+        x: 6959
+        y: 3375
+        width: 754
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e182f19a44097470800000000000000
+      internalID: 8392744098904310241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_47
+      rect:
+        serializedVersion: 2
+        x: 8052
+        y: 3375
+        width: 785
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461123b3bcc278820800000000000000
+      internalID: 2920352134756176228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_48
+      rect:
+        serializedVersion: 2
+        x: 9150
+        y: 3374
+        width: 807
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbf11cae2ae7c620800000000000000
+      internalID: 2794459579982937027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_49
+      rect:
+        serializedVersion: 2
+        x: 10252
+        y: 3373
+        width: 820
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f360b9f2160f1c0800000000000000
+      internalID: -4471967572886667488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_50
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2254
+        width: 825
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8653b07aa11b108b0800000000000000
+      internalID: -5187670567724305048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_51
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 2253
+        width: 825
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1624ccbec0e0d1480800000000000000
+      internalID: -8926963437720026527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_52
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 2252
+        width: 820
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46005ebee0f1b1c0800000000000000
+      internalID: -4489542445325875634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_53
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 2252
+        width: 808
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adbc87d053eef710800000000000000
+      internalID: 1729069243310063012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_54
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 2252
+        width: 791
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3b8745b0af62ef0800000000000000
+      internalID: -133144212392070168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_55
+      rect:
+        serializedVersion: 2
+        x: 5849
+        y: 2252
+        width: 771
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9031224ea32c4030800000000000000
+      internalID: 3480195843391303839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_56
+      rect:
+        serializedVersion: 2
+        x: 6969
+        y: 2252
+        width: 748
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ea7f4080ea869d0800000000000000
+      internalID: -2780781420434968979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_57
+      rect:
+        serializedVersion: 2
+        x: 8089
+        y: 2252
+        width: 724
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5f299e94fbc9e00800000000000000
+      internalID: 1052926737070093751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_58
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 2252
+        width: 717
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbbee97765021420800000000000000
+      internalID: 2599145876931656698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_59
+      rect:
+        serializedVersion: 2
+        x: 10310
+        y: 2252
+        width: 717
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af1ab19ef8372330800000000000000
+      internalID: 3685977486043783077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_60
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1133
+        width: 715
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375cabbc510de5110800000000000000
+      internalID: 1251666538486482291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_61
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1133
+        width: 707
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584f0cb033f6005a0800000000000000
+      internalID: -6557118792420232059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_62
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1133
+        width: 691
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e038a5833fcfcda0800000000000000
+      internalID: -5922287164776238879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_63
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 1133
+        width: 649
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5bf5858c92a62b0800000000000000
+      internalID: -5590610046974183986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_64
+      rect:
+        serializedVersion: 2
+        x: 4836
+        y: 1133
+        width: 583
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f579037fbdaf900b0800000000000000
+      internalID: -5761798425591900321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_65
+      rect:
+        serializedVersion: 2
+        x: 5945
+        y: 1133
+        width: 588
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba7d83c782e30b10800000000000000
+      internalID: 1946648536683477681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_66
+      rect:
+        serializedVersion: 2
+        x: 7071
+        y: 1133
+        width: 552
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c72d63a3d1e22e20800000000000000
+      internalID: 3324467774049036225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_67
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 1133
+        width: 524
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dcdda6e716fadb0800000000000000
+      internalID: -4778493484030112365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_68
+      rect:
+        serializedVersion: 2
+        x: 9276
+        y: 1133
+        width: 564
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba6c32feb8e818e0800000000000000
+      internalID: -1722370950663738692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_69
+      rect:
+        serializedVersion: 2
+        x: 10340
+        y: 1133
+        width: 644
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1450cbbc6386f160800000000000000
+      internalID: 7058973968979481630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_70
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 14
+        width: 667
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00648d8f8d6233c80800000000000000
+      internalID: -8344282971257682432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet - Aceno_71
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 14
+        width: 663
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d76d8a9843103c0800000000000000
+      internalID: -4395173995489100385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteSheet - Aceno_0: -842836839562450947
+      SpriteSheet - Aceno_1: 527793046174014617
+      SpriteSheet - Aceno_10: -2737642129278718018
+      SpriteSheet - Aceno_11: -8164758116015930550
+      SpriteSheet - Aceno_12: -712279647275369270
+      SpriteSheet - Aceno_13: -4454112671907267024
+      SpriteSheet - Aceno_14: -7982491282753619103
+      SpriteSheet - Aceno_15: 3191502936745388043
+      SpriteSheet - Aceno_16: 8350531200021380547
+      SpriteSheet - Aceno_17: -1381657076457371135
+      SpriteSheet - Aceno_18: -3026393649665301118
+      SpriteSheet - Aceno_19: -6919452439666325358
+      SpriteSheet - Aceno_2: 6728464532318743791
+      SpriteSheet - Aceno_20: -5221712925985322181
+      SpriteSheet - Aceno_21: -6383292700151948943
+      SpriteSheet - Aceno_22: -6286924833219289346
+      SpriteSheet - Aceno_23: -4087052212550639619
+      SpriteSheet - Aceno_24: 3069650089157433409
+      SpriteSheet - Aceno_25: -1288836745441891363
+      SpriteSheet - Aceno_26: 4483989544020001495
+      SpriteSheet - Aceno_27: 8097319732944617800
+      SpriteSheet - Aceno_28: -2572782233005054199
+      SpriteSheet - Aceno_29: -1906010369862721070
+      SpriteSheet - Aceno_3: 2464489801276231703
+      SpriteSheet - Aceno_30: 1224955148939881344
+      SpriteSheet - Aceno_31: 7210590570071091764
+      SpriteSheet - Aceno_32: -7482230557286465311
+      SpriteSheet - Aceno_33: -5785848108260961079
+      SpriteSheet - Aceno_34: -3694486423292280657
+      SpriteSheet - Aceno_35: 655861530960704803
+      SpriteSheet - Aceno_36: -695661625363059358
+      SpriteSheet - Aceno_37: -5582841823422280270
+      SpriteSheet - Aceno_38: 8258349454157552438
+      SpriteSheet - Aceno_39: 6423597641067633680
+      SpriteSheet - Aceno_4: 4803619956215662556
+      SpriteSheet - Aceno_40: 8000488616523807030
+      SpriteSheet - Aceno_41: -5389798453092227155
+      SpriteSheet - Aceno_42: 5332583650452176479
+      SpriteSheet - Aceno_43: 6608352691390907470
+      SpriteSheet - Aceno_44: 253224732766668861
+      SpriteSheet - Aceno_45: 8738739711240325665
+      SpriteSheet - Aceno_46: 8392744098904310241
+      SpriteSheet - Aceno_47: 2920352134756176228
+      SpriteSheet - Aceno_48: 2794459579982937027
+      SpriteSheet - Aceno_49: -4471967572886667488
+      SpriteSheet - Aceno_5: 5850321069836609134
+      SpriteSheet - Aceno_50: -5187670567724305048
+      SpriteSheet - Aceno_51: -8926963437720026527
+      SpriteSheet - Aceno_52: -4489542445325875634
+      SpriteSheet - Aceno_53: 1729069243310063012
+      SpriteSheet - Aceno_54: -133144212392070168
+      SpriteSheet - Aceno_55: 3480195843391303839
+      SpriteSheet - Aceno_56: -2780781420434968979
+      SpriteSheet - Aceno_57: 1052926737070093751
+      SpriteSheet - Aceno_58: 2599145876931656698
+      SpriteSheet - Aceno_59: 3685977486043783077
+      SpriteSheet - Aceno_6: 8875838204930215649
+      SpriteSheet - Aceno_60: 1251666538486482291
+      SpriteSheet - Aceno_61: -6557118792420232059
+      SpriteSheet - Aceno_62: -5922287164776238879
+      SpriteSheet - Aceno_63: -5590610046974183986
+      SpriteSheet - Aceno_64: -5761798425591900321
+      SpriteSheet - Aceno_65: 1946648536683477681
+      SpriteSheet - Aceno_66: 3324467774049036225
+      SpriteSheet - Aceno_67: -4778493484030112365
+      SpriteSheet - Aceno_68: -1722370950663738692
+      SpriteSheet - Aceno_69: 7058973968979481630
+      SpriteSheet - Aceno_7: 1918225750202910375
+      SpriteSheet - Aceno_70: -8344282971257682432
+      SpriteSheet - Aceno_71: -4395173995489100385
+      SpriteSheet - Aceno_8: 1143506594078483101
+      SpriteSheet - Aceno_9: 964184443024467669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

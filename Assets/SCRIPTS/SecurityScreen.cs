@@ -20,7 +20,7 @@ public class SecurityScreen : MonoBehaviour
     [SerializeField] private float onTimer;
 
     [Header("State")]
-    bool isAlarmOn;
+    public bool isAlarmOn;
     [SerializeField] public static int intID;
 
     void Start()
@@ -62,7 +62,7 @@ public class SecurityScreen : MonoBehaviour
         //depois dos 10 segundo isAlertOn == false e checkState é chamado
 
         sr.color = Color.red;
-        intID = Random.Range(1, 4); 
+        intID = Random.Range(1, 5); 
         //intID = 2;
         stateRoutine = StartCoroutine(AlertOnRoutine());
     }

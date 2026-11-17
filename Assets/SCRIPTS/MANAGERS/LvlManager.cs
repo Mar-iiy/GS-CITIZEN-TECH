@@ -16,11 +16,15 @@ public class LvlManager : MonoBehaviour
     [Header("EndScreen")]
     [SerializeField] public GameObject[] endScreen;
 
+
+    public int minigameDayCount;
     public  bool minigameIsOn;
 
     
     void Start()
     {
+        minigameDayCount = 0;
+
         endScreen[0].SetActive(false);
         endScreen[1].SetActive(false);
     }
