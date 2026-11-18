@@ -1,4 +1,3 @@
-using UnityEditor.Rendering;
 using UnityEngine;
 
 public class ChangeCamera : MonoBehaviour
@@ -31,7 +30,12 @@ public class ChangeCamera : MonoBehaviour
             activeCameraID = cameraID;
             Debug.Log("Câmera ativada: " + cameraID);
         }
-        
+
+        if (musicManager.Instance != null)
+        {
+            musicManager.Instance.ChangeMusic();
+        }
+
         canvasScene[cameraID].enabled = true;
     }
 }

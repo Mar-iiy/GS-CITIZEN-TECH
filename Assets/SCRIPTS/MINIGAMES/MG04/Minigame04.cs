@@ -1,6 +1,4 @@
 using UnityEngine;
-using static UnityEngine.Audio.ProcessorInstance;
-
 public class Minigame04 : MonoBehaviour
 {
 

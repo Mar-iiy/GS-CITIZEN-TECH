@@ -1,7 +1,5 @@
 using UnityEngine;
 using TMPro;
-using Unity.VisualScripting;
-using System;
 
 public class TutorialDialogue : MonoBehaviour
 {

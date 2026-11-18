@@ -287,10 +287,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -357,12 +357,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_0
       rect:
         serializedVersion: 2
-        x: 393
+        x: 0
         y: 7826
-        width: 566
-        height: 1070
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -379,12 +379,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_1
       rect:
         serializedVersion: 2
-        x: 1376
+        x: 987
         y: 7826
-        width: 570
-        height: 1071
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -401,12 +401,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_2
       rect:
         serializedVersion: 2
-        x: 2352
+        x: 1974
         y: 7826
-        width: 582
-        height: 1075
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -423,12 +423,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_3
       rect:
         serializedVersion: 2
-        x: 3326
+        x: 2961
         y: 7826
-        width: 597
-        height: 1080
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -445,12 +445,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_4
       rect:
         serializedVersion: 2
-        x: 4298
+        x: 3948
         y: 7826
-        width: 613
-        height: 1084
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -467,12 +467,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_5
       rect:
         serializedVersion: 2
-        x: 5270
+        x: 4935
         y: 7826
-        width: 630
-        height: 1088
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -489,12 +489,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_6
       rect:
         serializedVersion: 2
-        x: 6245
+        x: 5922
         y: 7826
-        width: 642
-        height: 1088
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -511,12 +511,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_7
       rect:
         serializedVersion: 2
-        x: 7225
+        x: 6909
         y: 7826
-        width: 646
-        height: 1088
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -533,12 +533,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_8
       rect:
         serializedVersion: 2
-        x: 8208
+        x: 7896
         y: 7826
-        width: 647
-        height: 1086
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -555,12 +555,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_9
       rect:
         serializedVersion: 2
-        x: 9194
+        x: 8883
         y: 7826
-        width: 644
-        height: 1082
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -577,12 +577,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_10
       rect:
         serializedVersion: 2
-        x: 320
-        y: 6710
-        width: 642
-        height: 1079
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 6709
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -599,12 +599,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_11
       rect:
         serializedVersion: 2
-        x: 1306
-        y: 6710
-        width: 640
-        height: 1077
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 987
+        y: 6709
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -621,12 +621,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_12
       rect:
         serializedVersion: 2
-        x: 2291
-        y: 6710
-        width: 641
-        height: 1078
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1974
+        y: 6709
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -643,12 +643,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_13
       rect:
         serializedVersion: 2
-        x: 3278
-        y: 6710
-        width: 640
-        height: 1080
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2961
+        y: 6709
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -665,12 +665,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_14
       rect:
         serializedVersion: 2
-        x: 4264
-        y: 6710
-        width: 641
-        height: 1082
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3948
+        y: 6709
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -687,12 +687,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_15
       rect:
         serializedVersion: 2
-        x: 5248
-        y: 6710
-        width: 642
-        height: 1082
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4935
+        y: 6709
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -709,12 +709,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_16
       rect:
         serializedVersion: 2
-        x: 6232
-        y: 6710
-        width: 643
-        height: 1080
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5922
+        y: 6709
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -731,12 +731,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_17
       rect:
         serializedVersion: 2
-        x: 7217
-        y: 6710
-        width: 642
-        height: 1077
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6909
+        y: 6709
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -753,12 +753,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_18
       rect:
         serializedVersion: 2
-        x: 8203
-        y: 6710
-        width: 639
-        height: 1073
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7896
+        y: 6709
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -775,12 +775,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_19
       rect:
         serializedVersion: 2
-        x: 9191
-        y: 6710
-        width: 634
-        height: 1068
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8883
+        y: 6709
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -797,12 +797,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_20
       rect:
         serializedVersion: 2
-        x: 319
-        y: 5594
-        width: 629
-        height: 1065
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 5592
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -819,12 +819,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_21
       rect:
         serializedVersion: 2
-        x: 1306
-        y: 5594
-        width: 626
-        height: 1063
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 987
+        y: 5592
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -841,12 +841,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_22
       rect:
         serializedVersion: 2
-        x: 2293
-        y: 5594
-        width: 624
-        height: 1062
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1974
+        y: 5592
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -863,12 +863,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_23
       rect:
         serializedVersion: 2
-        x: 3280
-        y: 5594
-        width: 621
-        height: 1062
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2961
+        y: 5592
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -885,12 +885,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_24
       rect:
         serializedVersion: 2
-        x: 4266
-        y: 5594
-        width: 620
-        height: 1063
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3948
+        y: 5592
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -907,12 +907,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_25
       rect:
         serializedVersion: 2
-        x: 5252
-        y: 5594
-        width: 619
-        height: 1065
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4935
+        y: 5592
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -929,12 +929,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_26
       rect:
         serializedVersion: 2
-        x: 6237
-        y: 5594
-        width: 620
-        height: 1067
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5922
+        y: 5592
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -951,12 +951,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_27
       rect:
         serializedVersion: 2
-        x: 7222
-        y: 5594
-        width: 623
-        height: 1070
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6909
+        y: 5592
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -973,12 +973,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_28
       rect:
         serializedVersion: 2
-        x: 8205
-        y: 5594
-        width: 626
-        height: 1074
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7896
+        y: 5592
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -995,12 +995,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_29
       rect:
         serializedVersion: 2
-        x: 9188
-        y: 5594
-        width: 631
-        height: 1079
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8883
+        y: 5592
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1017,12 +1017,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_30
       rect:
         serializedVersion: 2
-        x: 310
-        y: 4478
-        width: 637
-        height: 1083
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 4475
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1039,12 +1039,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_31
       rect:
         serializedVersion: 2
-        x: 1293
-        y: 4478
-        width: 643
-        height: 1087
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 987
+        y: 4475
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1061,12 +1061,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_32
       rect:
         serializedVersion: 2
-        x: 2276
-        y: 4478
-        width: 649
-        height: 1091
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1974
+        y: 4475
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1083,12 +1083,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_33
       rect:
         serializedVersion: 2
-        x: 3259
-        y: 4478
-        width: 655
-        height: 1095
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2961
+        y: 4475
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1105,12 +1105,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_34
       rect:
         serializedVersion: 2
-        x: 4244
-        y: 4478
-        width: 660
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3948
+        y: 4475
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1127,12 +1127,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_35
       rect:
         serializedVersion: 2
-        x: 5231
-        y: 4478
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4935
+        y: 4475
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1149,12 +1149,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_36
       rect:
         serializedVersion: 2
-        x: 6220
-        y: 4478
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5922
+        y: 4475
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1171,12 +1171,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_37
       rect:
         serializedVersion: 2
-        x: 7212
-        y: 4478
-        width: 660
-        height: 1094
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6909
+        y: 4475
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1193,12 +1193,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_38
       rect:
         serializedVersion: 2
-        x: 8202
-        y: 4478
-        width: 656
-        height: 1093
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7896
+        y: 4475
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1215,12 +1215,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_39
       rect:
         serializedVersion: 2
-        x: 9188
-        y: 4478
-        width: 656
-        height: 1093
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8883
+        y: 4475
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1237,12 +1237,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_40
       rect:
         serializedVersion: 2
-        x: 312
-        y: 3362
-        width: 658
-        height: 1094
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 3358
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1259,12 +1259,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_41
       rect:
         serializedVersion: 2
-        x: 1295
-        y: 3362
-        width: 660
-        height: 1095
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 987
+        y: 3358
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1281,12 +1281,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_42
       rect:
         serializedVersion: 2
-        x: 2280
-        y: 3362
-        width: 661
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1974
+        y: 3358
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1303,12 +1303,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_43
       rect:
         serializedVersion: 2
-        x: 3267
-        y: 3362
-        width: 660
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2961
+        y: 3358
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1325,12 +1325,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_44
       rect:
         serializedVersion: 2
-        x: 4255
-        y: 3362
-        width: 659
-        height: 1095
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3948
+        y: 3358
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1347,12 +1347,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_45
       rect:
         serializedVersion: 2
-        x: 5244
-        y: 3362
-        width: 657
-        height: 1094
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4935
+        y: 3358
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1369,12 +1369,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_46
       rect:
         serializedVersion: 2
-        x: 6232
-        y: 3362
-        width: 655
-        height: 1094
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5922
+        y: 3358
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1391,12 +1391,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_47
       rect:
         serializedVersion: 2
-        x: 7221
-        y: 3362
-        width: 652
-        height: 1092
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6909
+        y: 3358
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1413,12 +1413,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_48
       rect:
         serializedVersion: 2
-        x: 8208
-        y: 3362
-        width: 651
-        height: 1092
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7896
+        y: 3358
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1435,12 +1435,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_49
       rect:
         serializedVersion: 2
-        x: 9196
-        y: 3362
-        width: 650
-        height: 1092
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8883
+        y: 3358
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1457,12 +1457,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_50
       rect:
         serializedVersion: 2
-        x: 322
-        y: 2246
-        width: 649
-        height: 1092
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2241
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1479,12 +1479,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_51
       rect:
         serializedVersion: 2
-        x: 1308
-        y: 2246
-        width: 650
-        height: 1092
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 987
+        y: 2241
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1501,12 +1501,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_52
       rect:
         serializedVersion: 2
-        x: 2292
-        y: 2246
-        width: 651
-        height: 1092
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1974
+        y: 2241
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1523,12 +1523,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_53
       rect:
         serializedVersion: 2
-        x: 3277
-        y: 2246
-        width: 652
-        height: 1092
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2961
+        y: 2241
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1545,12 +1545,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_54
       rect:
         serializedVersion: 2
-        x: 4260
-        y: 2246
-        width: 655
-        height: 1094
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3948
+        y: 2241
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1567,12 +1567,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_55
       rect:
         serializedVersion: 2
-        x: 5244
-        y: 2246
-        width: 657
-        height: 1094
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4935
+        y: 2241
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1589,12 +1589,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_56
       rect:
         serializedVersion: 2
-        x: 6227
-        y: 2246
-        width: 659
-        height: 1095
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5922
+        y: 2241
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1611,12 +1611,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_57
       rect:
         serializedVersion: 2
-        x: 7211
-        y: 2246
-        width: 660
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6909
+        y: 2241
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1633,12 +1633,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_58
       rect:
         serializedVersion: 2
-        x: 8195
-        y: 2246
-        width: 661
-        height: 1095
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7896
+        y: 2241
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1655,12 +1655,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_59
       rect:
         serializedVersion: 2
-        x: 9179
-        y: 2246
-        width: 662
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8883
+        y: 2241
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1677,12 +1677,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_60
       rect:
         serializedVersion: 2
-        x: 304
-        y: 1130
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1124
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1699,12 +1699,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_61
       rect:
         serializedVersion: 2
-        x: 1288
-        y: 1130
-        width: 663
-        height: 1097
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 987
+        y: 1124
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1721,12 +1721,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_62
       rect:
         serializedVersion: 2
-        x: 2274
-        y: 1130
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1974
+        y: 1124
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1743,12 +1743,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_63
       rect:
         serializedVersion: 2
-        x: 3259
-        y: 1130
-        width: 663
-        height: 1097
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2961
+        y: 1124
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1765,12 +1765,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_64
       rect:
         serializedVersion: 2
-        x: 4245
-        y: 1130
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3948
+        y: 1124
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1787,12 +1787,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_65
       rect:
         serializedVersion: 2
-        x: 5231
-        y: 1130
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4935
+        y: 1124
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1809,12 +1809,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_66
       rect:
         serializedVersion: 2
-        x: 6217
-        y: 1130
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5922
+        y: 1124
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1831,12 +1831,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_67
       rect:
         serializedVersion: 2
-        x: 7203
-        y: 1130
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6909
+        y: 1124
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1853,12 +1853,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_68
       rect:
         serializedVersion: 2
-        x: 8189
-        y: 1130
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7896
+        y: 1124
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1875,12 +1875,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_69
       rect:
         serializedVersion: 2
-        x: 9175
-        y: 1130
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8883
+        y: 1124
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1897,12 +1897,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_70
       rect:
         serializedVersion: 2
-        x: 301
-        y: 14
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 7
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1919,12 +1919,12 @@ TextureImporter:
       name: SpriteSheet - Danca_Idle_71
       rect:
         serializedVersion: 2
-        x: 1287
-        y: 14
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 987
+        y: 7
+        width: 987
+        height: 1117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1941,7 +1941,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e2522037d3b827b4b9f97eb6794593ed
     internalID: 0
     vertices: []
     indices: 
@@ -1949,7 +1949,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":8.0},"gridSpriteSize":{"x":987.0,"y":1117.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       SpriteSheet - Danca_Idle_0: 7889202972913450697
       SpriteSheet - Danca_Idle_1: -8157272848897569818

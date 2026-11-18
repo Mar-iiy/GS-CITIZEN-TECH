@@ -1,4 +1,3 @@
-using Unity.VisualScripting;
 using UnityEngine;
 using System.Collections;
 
@@ -10,6 +9,7 @@ public class SecurityScreen : MonoBehaviour
 
     [SerializeField] private ChangeCamera changeCamera;
     [SerializeField] private LvlManager lvlManager;
+    [SerializeField] private pauseManager pause;
 
     // [SerializeField] Sprite[] spritesStates;
 
@@ -33,10 +33,6 @@ public class SecurityScreen : MonoBehaviour
     }
     void CheckState()
     {
-        //checar se isAlarOn esta true ou false
-        // se false iniciar void para true 
-        // se true o contrario 
-
         if (stateRoutine != null)
         {
             StopCoroutine(stateRoutine);
@@ -55,12 +51,6 @@ public class SecurityScreen : MonoBehaviour
 
     void AlertOn()
     {
-        //roda se isAlertOn == true
-        // muda sprite/animacao para alertaLigado
-        //intID == valor aleatorio (1-8)
-        //permanece ligado por 10 segundos se nao for clicado
-        //depois dos 10 segundo isAlertOn == false e checkState é chamado
-
         sr.color = Color.red;
         intID = Random.Range(1, 5); 
         //intID = 2;
@@ -71,7 +61,6 @@ public class SecurityScreen : MonoBehaviour
     {
         yield return new WaitForSeconds(onTimer);
 
-        // não foi clicado a tempo
         isAlarmOn = false;
         CheckState();
     }
@@ -79,12 +68,6 @@ public class SecurityScreen : MonoBehaviour
 
     void AlertOff()
     {
-        //roda se isAlertOn == false
-        //muda sprite/animacao para alertaDesligado
-        // intId == 0
-        //inicia corrotina com tempo sorteado aleatorio entre minTimer-maxTimer
-        // no final do timer isAlertOn == true e checkState é chamado
-
         sr.color = Color.grey;
         intID = 0;
         stateRoutine = StartCoroutine(AlertOffRoutine());
@@ -92,8 +75,6 @@ public class SecurityScreen : MonoBehaviour
 
     IEnumerator AlertOffRoutine()
     {
-        //espera o tempo aleatorio pra ligar de novo
-        
         float wait = Random.Range(minTimer, maxTimer);
         yield return new WaitForSeconds(wait);
 
@@ -103,7 +84,7 @@ public class SecurityScreen : MonoBehaviour
 
     private void OnMouseDown()
     {
-        if(isAlarmOn)
+        if(isAlarmOn && pause.gamePaused == false)
         {
             Debug.Log("FOI CLICADO");
             changeCamera.ActivateCamera(intID);

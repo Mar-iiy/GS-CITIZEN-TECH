@@ -287,10 +287,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -357,12 +357,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_0
       rect:
         serializedVersion: 2
-        x: 362
+        x: 0
         y: 7847
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -379,12 +379,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_1
       rect:
         serializedVersion: 2
-        x: 1465
+        x: 1109
         y: 7847
-        width: 673
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -401,12 +401,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_2
       rect:
         serializedVersion: 2
-        x: 2562
+        x: 2218
         y: 7847
-        width: 696
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -423,12 +423,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_3
       rect:
         serializedVersion: 2
-        x: 3672
+        x: 3327
         y: 7847
-        width: 695
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -445,12 +445,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_4
       rect:
         serializedVersion: 2
-        x: 4830
+        x: 4436
         y: 7847
-        width: 607
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -467,12 +467,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_5
       rect:
         serializedVersion: 2
-        x: 5910
+        x: 5545
         y: 7847
-        width: 665
-        height: 1095
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -489,12 +489,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_6
       rect:
         serializedVersion: 2
-        x: 7002
+        x: 6654
         y: 7847
-        width: 699
-        height: 1094
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -511,12 +511,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_7
       rect:
         serializedVersion: 2
-        x: 8101
+        x: 7763
         y: 7847
-        width: 719
-        height: 1092
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -533,12 +533,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_8
       rect:
         serializedVersion: 2
-        x: 9206
+        x: 8872
         y: 7847
-        width: 725
-        height: 1090
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -555,12 +555,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_9
       rect:
         serializedVersion: 2
-        x: 10316
+        x: 9981
         y: 7847
-        width: 723
-        height: 1090
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -577,12 +577,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_10
       rect:
         serializedVersion: 2
-        x: 342
-        y: 6730
-        width: 724
-        height: 1088
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 6727
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -599,12 +599,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_11
       rect:
         serializedVersion: 2
-        x: 1448
-        y: 6731
-        width: 725
-        height: 1087
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1109
+        y: 6727
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -621,12 +621,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_12
       rect:
         serializedVersion: 2
-        x: 2558
-        y: 6733
-        width: 716
-        height: 1086
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2218
+        y: 6727
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -643,12 +643,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_13
       rect:
         serializedVersion: 2
-        x: 3667
-        y: 6734
-        width: 697
-        height: 1086
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3327
+        y: 6727
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -665,12 +665,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_14
       rect:
         serializedVersion: 2
-        x: 4767
-        y: 6735
-        width: 702
-        height: 1087
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4436
+        y: 6727
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -687,12 +687,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_15
       rect:
         serializedVersion: 2
-        x: 5869
-        y: 6736
-        width: 711
-        height: 1086
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5545
+        y: 6727
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -709,12 +709,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_16
       rect:
         serializedVersion: 2
-        x: 6972
-        y: 6737
-        width: 716
-        height: 1087
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6654
+        y: 6727
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -731,12 +731,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_17
       rect:
         serializedVersion: 2
-        x: 8076
-        y: 6738
-        width: 721
-        height: 1086
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7763
+        y: 6727
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -753,12 +753,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_18
       rect:
         serializedVersion: 2
-        x: 9181
-        y: 6739
-        width: 725
-        height: 1086
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8872
+        y: 6727
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -775,12 +775,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_19
       rect:
         serializedVersion: 2
-        x: 10287
-        y: 6740
-        width: 725
-        height: 1086
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 9981
+        y: 6727
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -797,12 +797,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_20
       rect:
         serializedVersion: 2
-        x: 314
-        y: 5621
-        width: 723
-        height: 1086
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 5607
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -819,12 +819,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_21
       rect:
         serializedVersion: 2
-        x: 1422
-        y: 5622
-        width: 721
-        height: 1085
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1109
+        y: 5607
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -841,12 +841,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_22
       rect:
         serializedVersion: 2
-        x: 2530
-        y: 5622
-        width: 722
-        height: 1085
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2218
+        y: 5607
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -863,12 +863,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_23
       rect:
         serializedVersion: 2
-        x: 3636
-        y: 5622
-        width: 730
-        height: 1085
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3327
+        y: 5607
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -885,12 +885,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_24
       rect:
         serializedVersion: 2
-        x: 4740
-        y: 5622
-        width: 737
-        height: 1085
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4436
+        y: 5607
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -907,12 +907,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_25
       rect:
         serializedVersion: 2
-        x: 5847
-        y: 5622
-        width: 739
-        height: 1085
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5545
+        y: 5607
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -929,12 +929,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_26
       rect:
         serializedVersion: 2
-        x: 6962
-        y: 5622
-        width: 725
-        height: 1085
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6654
+        y: 5607
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -951,12 +951,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_27
       rect:
         serializedVersion: 2
-        x: 8073
-        y: 5622
-        width: 711
-        height: 1085
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7763
+        y: 5607
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -973,12 +973,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_28
       rect:
         serializedVersion: 2
-        x: 9180
-        y: 5622
-        width: 711
-        height: 1085
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8872
+        y: 5607
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -995,12 +995,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_29
       rect:
         serializedVersion: 2
-        x: 10290
-        y: 5621
-        width: 708
-        height: 1086
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 9981
+        y: 5607
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1017,12 +1017,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_30
       rect:
         serializedVersion: 2
-        x: 320
-        y: 4502
-        width: 704
-        height: 1086
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 4487
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1039,12 +1039,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_31
       rect:
         serializedVersion: 2
-        x: 1429
-        y: 4502
-        width: 701
-        height: 1087
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1109
+        y: 4487
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1061,12 +1061,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_32
       rect:
         serializedVersion: 2
-        x: 2538
-        y: 4502
-        width: 701
-        height: 1087
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2218
+        y: 4487
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1083,12 +1083,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_33
       rect:
         serializedVersion: 2
-        x: 3646
-        y: 4502
-        width: 703
-        height: 1087
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3327
+        y: 4487
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1105,12 +1105,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_34
       rect:
         serializedVersion: 2
-        x: 4754
-        y: 4501
-        width: 703
-        height: 1088
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4436
+        y: 4487
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1127,12 +1127,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_35
       rect:
         serializedVersion: 2
-        x: 5863
-        y: 4500
-        width: 703
-        height: 1089
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5545
+        y: 4487
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1149,12 +1149,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_36
       rect:
         serializedVersion: 2
-        x: 6971
-        y: 4500
-        width: 702
-        height: 1089
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6654
+        y: 4487
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1171,12 +1171,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_37
       rect:
         serializedVersion: 2
-        x: 8081
-        y: 4500
-        width: 700
-        height: 1089
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7763
+        y: 4487
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1193,12 +1193,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_38
       rect:
         serializedVersion: 2
-        x: 9190
-        y: 4499
-        width: 699
-        height: 1090
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8872
+        y: 4487
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1215,12 +1215,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_39
       rect:
         serializedVersion: 2
-        x: 10299
-        y: 4499
-        width: 698
-        height: 1090
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 9981
+        y: 4487
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1237,12 +1237,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_40
       rect:
         serializedVersion: 2
-        x: 327
-        y: 3379
-        width: 700
-        height: 1091
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 3367
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1259,12 +1259,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_41
       rect:
         serializedVersion: 2
-        x: 1435
-        y: 3379
-        width: 703
-        height: 1091
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1109
+        y: 3367
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1281,12 +1281,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_42
       rect:
         serializedVersion: 2
-        x: 2541
-        y: 3378
-        width: 708
-        height: 1092
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2218
+        y: 3367
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1303,12 +1303,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_43
       rect:
         serializedVersion: 2
-        x: 3650
-        y: 3377
-        width: 711
-        height: 1093
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3327
+        y: 3367
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1325,12 +1325,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_44
       rect:
         serializedVersion: 2
-        x: 4758
-        y: 3377
-        width: 713
-        height: 1093
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4436
+        y: 3367
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1347,12 +1347,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_45
       rect:
         serializedVersion: 2
-        x: 5866
-        y: 3376
-        width: 718
-        height: 1094
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5545
+        y: 3367
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1369,12 +1369,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_46
       rect:
         serializedVersion: 2
-        x: 6959
-        y: 3375
-        width: 754
-        height: 1094
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6654
+        y: 3367
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1391,12 +1391,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_47
       rect:
         serializedVersion: 2
-        x: 8052
-        y: 3375
-        width: 785
-        height: 1094
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7763
+        y: 3367
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1413,12 +1413,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_48
       rect:
         serializedVersion: 2
-        x: 9150
-        y: 3374
-        width: 807
-        height: 1095
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8872
+        y: 3367
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1435,12 +1435,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_49
       rect:
         serializedVersion: 2
-        x: 10252
-        y: 3373
-        width: 820
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 9981
+        y: 3367
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1457,12 +1457,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_50
       rect:
         serializedVersion: 2
-        x: 278
-        y: 2254
-        width: 825
-        height: 1095
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2247
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1479,12 +1479,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_51
       rect:
         serializedVersion: 2
-        x: 1387
-        y: 2253
-        width: 825
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1109
+        y: 2247
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1501,12 +1501,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_52
       rect:
         serializedVersion: 2
-        x: 2498
-        y: 2252
-        width: 820
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2218
+        y: 2247
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1523,12 +1523,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_53
       rect:
         serializedVersion: 2
-        x: 3613
-        y: 2252
-        width: 808
-        height: 1095
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3327
+        y: 2247
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1545,12 +1545,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_54
       rect:
         serializedVersion: 2
-        x: 4730
-        y: 2252
-        width: 791
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4436
+        y: 2247
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1567,12 +1567,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_55
       rect:
         serializedVersion: 2
-        x: 5849
-        y: 2252
-        width: 771
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5545
+        y: 2247
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1589,12 +1589,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_56
       rect:
         serializedVersion: 2
-        x: 6969
-        y: 2252
-        width: 748
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6654
+        y: 2247
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1611,12 +1611,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_57
       rect:
         serializedVersion: 2
-        x: 8089
-        y: 2252
-        width: 724
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7763
+        y: 2247
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1633,12 +1633,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_58
       rect:
         serializedVersion: 2
-        x: 9200
-        y: 2252
-        width: 717
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8872
+        y: 2247
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1655,12 +1655,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_59
       rect:
         serializedVersion: 2
-        x: 10310
-        y: 2252
-        width: 717
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 9981
+        y: 2247
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1677,12 +1677,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_60
       rect:
         serializedVersion: 2
-        x: 337
-        y: 1133
-        width: 715
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1127
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1699,12 +1699,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_61
       rect:
         serializedVersion: 2
-        x: 1448
-        y: 1133
-        width: 707
-        height: 1097
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1109
+        y: 1127
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1721,12 +1721,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_62
       rect:
         serializedVersion: 2
-        x: 2562
-        y: 1133
-        width: 691
-        height: 1097
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2218
+        y: 1127
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1743,12 +1743,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_63
       rect:
         serializedVersion: 2
-        x: 3688
-        y: 1133
-        width: 649
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3327
+        y: 1127
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1765,12 +1765,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_64
       rect:
         serializedVersion: 2
-        x: 4836
-        y: 1133
-        width: 583
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4436
+        y: 1127
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1787,12 +1787,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_65
       rect:
         serializedVersion: 2
-        x: 5945
-        y: 1133
-        width: 588
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5545
+        y: 1127
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1809,12 +1809,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_66
       rect:
         serializedVersion: 2
-        x: 7071
-        y: 1133
-        width: 552
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6654
+        y: 1127
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1831,12 +1831,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_67
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 1133
-        width: 524
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7763
+        y: 1127
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1853,12 +1853,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_68
       rect:
         serializedVersion: 2
-        x: 9276
-        y: 1133
-        width: 564
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8872
+        y: 1127
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1875,12 +1875,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_69
       rect:
         serializedVersion: 2
-        x: 10340
-        y: 1133
-        width: 644
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 9981
+        y: 1127
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1897,12 +1897,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_70
       rect:
         serializedVersion: 2
-        x: 361
-        y: 14
-        width: 667
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 7
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1919,12 +1919,12 @@ TextureImporter:
       name: SpriteSheet - Aceno_71
       rect:
         serializedVersion: 2
-        x: 1470
-        y: 14
-        width: 663
-        height: 1096
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1109
+        y: 7
+        width: 1109
+        height: 1120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1941,7 +1941,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4e03bab0ba21c6e4aace9b4814f14266
     internalID: 0
     vertices: []
     indices: 
@@ -1949,7 +1949,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":8.0},"gridSpriteSize":{"x":1109.0,"y":1120.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       SpriteSheet - Aceno_0: -842836839562450947
       SpriteSheet - Aceno_1: 527793046174014617

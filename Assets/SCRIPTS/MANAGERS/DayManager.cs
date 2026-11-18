@@ -17,7 +17,13 @@ public class DayManager : MonoBehaviour
 
     [Header("WeekEnd")]
     [SerializeField] private GameObject[] weekEnding;
-    
+
+    [Header("animator")]
+    [SerializeField] Animator animator;
+
+    [SerializeField] private AudioClip audioItem;
+    [SerializeField] private AudioSource audio;
+
     void Start()
     {
         dayNumber = 0;
@@ -26,9 +32,9 @@ public class DayManager : MonoBehaviour
         weekEnding[1].SetActive(false);
     }
 
-    void Update()
+    void Awake()
     {
-        
+        Hello();
     }
 
     public void CallNextDay()
@@ -50,6 +56,10 @@ public class DayManager : MonoBehaviour
             endScreen.SetActive(false);
         }
 
+        lvlManager.ResetDayPoints();
+
+        Hello();
+
         if (dayNumber == 5)
         {
             CallEndWeek();
@@ -58,7 +68,7 @@ public class DayManager : MonoBehaviour
         switch (dayNumber)
         {
             case 1:
-                lvlTimer.SetDayTime(13, 0, 17);
+                lvlTimer.SetDayTime(13, 0, 15);
                 mgTimer.SetTimerTime(30f);
                 break;
 
@@ -81,6 +91,13 @@ public class DayManager : MonoBehaviour
         tutorialDialogue.SetDialogueGroup(dayNumber);
     }
 
+    public void Hello()
+    {
+        audio.clip = audioItem;
+        audio.Play();
+        animator.Play("hello");
+    }
+
     void CallEndWeek()
     {
         if(weekSatisfactionG > weekSatisfactionB)
@@ -88,7 +105,7 @@ public class DayManager : MonoBehaviour
             weekEnding[0].SetActive(true);
         }
 
-        else 
+        if(weekSatisfactionG < weekSatisfactionB || weekSatisfactionG == 0)
         {
             weekEnding[1].SetActive(true);
         }

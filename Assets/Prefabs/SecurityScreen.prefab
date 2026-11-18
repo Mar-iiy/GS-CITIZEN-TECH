@@ -154,7 +154,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SecurityScreen
   changeCamera: {fileID: 0}
   lvlManager: {fileID: 0}
-  minTimer: 3
-  maxTimer: 11
+  pause: {fileID: 0}
+  minTimer: 10
+  maxTimer: 18
   onTimer: 10
   isAlarmOn: 0

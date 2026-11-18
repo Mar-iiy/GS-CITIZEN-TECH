@@ -287,10 +287,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -357,12 +357,12 @@ TextureImporter:
       name: SpriteSheet - Panico_0
       rect:
         serializedVersion: 2
-        x: 400
+        x: 0
         y: 8505
-        width: 863
-        height: 1112
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -379,12 +379,12 @@ TextureImporter:
       name: SpriteSheet - Panico_1
       rect:
         serializedVersion: 2
-        x: 1868
+        x: 1474
         y: 8505
-        width: 860
-        height: 1116
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -401,12 +401,12 @@ TextureImporter:
       name: SpriteSheet - Panico_2
       rect:
         serializedVersion: 2
-        x: 3331
+        x: 2948
         y: 8505
-        width: 845
-        height: 1120
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -423,12 +423,12 @@ TextureImporter:
       name: SpriteSheet - Panico_3
       rect:
         serializedVersion: 2
-        x: 4806
-        y: 8510
-        width: 801
-        height: 1112
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4422
+        y: 8505
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -445,12 +445,12 @@ TextureImporter:
       name: SpriteSheet - Panico_4
       rect:
         serializedVersion: 2
-        x: 6286
-        y: 8517
-        width: 741
-        height: 1103
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5896
+        y: 8505
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -467,12 +467,12 @@ TextureImporter:
       name: SpriteSheet - Panico_5
       rect:
         serializedVersion: 2
-        x: 7720
-        y: 8523
-        width: 772
-        height: 1094
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7370
+        y: 8505
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -489,12 +489,12 @@ TextureImporter:
       name: SpriteSheet - Panico_6
       rect:
         serializedVersion: 2
-        x: 9164
-        y: 8528
-        width: 831
-        height: 1084
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8844
+        y: 8505
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -511,12 +511,12 @@ TextureImporter:
       name: SpriteSheet - Panico_7
       rect:
         serializedVersion: 2
-        x: 10607
-        y: 8530
-        width: 890
-        height: 1078
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 10318
+        y: 8505
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -533,12 +533,12 @@ TextureImporter:
       name: SpriteSheet - Panico_8
       rect:
         serializedVersion: 2
-        x: 12050
-        y: 8530
-        width: 950
-        height: 1069
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 11792
+        y: 8505
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -555,12 +555,12 @@ TextureImporter:
       name: SpriteSheet - Panico_9
       rect:
         serializedVersion: 2
-        x: 13501
-        y: 8530
-        width: 994
-        height: 1063
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13266
+        y: 8505
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -577,12 +577,12 @@ TextureImporter:
       name: SpriteSheet - Panico_10
       rect:
         serializedVersion: 2
-        x: 231
-        y: 7317
-        width: 1020
-        height: 1058
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 7291
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -599,12 +599,12 @@ TextureImporter:
       name: SpriteSheet - Panico_11
       rect:
         serializedVersion: 2
-        x: 1700
-        y: 7318
-        width: 1028
-        height: 1056
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1474
+        y: 7291
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -621,12 +621,12 @@ TextureImporter:
       name: SpriteSheet - Panico_12
       rect:
         serializedVersion: 2
-        x: 3173
-        y: 7318
-        width: 1028
-        height: 1056
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2948
+        y: 7291
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -643,12 +643,12 @@ TextureImporter:
       name: SpriteSheet - Panico_13
       rect:
         serializedVersion: 2
-        x: 4646
-        y: 7318
-        width: 1028
-        height: 1056
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4422
+        y: 7291
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -665,12 +665,12 @@ TextureImporter:
       name: SpriteSheet - Panico_14
       rect:
         serializedVersion: 2
-        x: 6119
-        y: 7318
-        width: 1028
-        height: 1056
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5896
+        y: 7291
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -687,12 +687,12 @@ TextureImporter:
       name: SpriteSheet - Panico_15
       rect:
         serializedVersion: 2
-        x: 7592
-        y: 7318
-        width: 1028
-        height: 1056
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7370
+        y: 7291
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -709,12 +709,12 @@ TextureImporter:
       name: SpriteSheet - Panico_16
       rect:
         serializedVersion: 2
-        x: 9065
-        y: 7318
-        width: 1028
-        height: 1056
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8844
+        y: 7291
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -731,12 +731,12 @@ TextureImporter:
       name: SpriteSheet - Panico_17
       rect:
         serializedVersion: 2
-        x: 10538
-        y: 7318
-        width: 1028
-        height: 1056
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 10318
+        y: 7291
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -753,12 +753,12 @@ TextureImporter:
       name: SpriteSheet - Panico_18
       rect:
         serializedVersion: 2
-        x: 12011
-        y: 7318
-        width: 1028
-        height: 1056
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 11792
+        y: 7291
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -775,12 +775,12 @@ TextureImporter:
       name: SpriteSheet - Panico_19
       rect:
         serializedVersion: 2
-        x: 13484
-        y: 7318
-        width: 1028
-        height: 1056
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13266
+        y: 7291
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -797,12 +797,12 @@ TextureImporter:
       name: SpriteSheet - Panico_20
       rect:
         serializedVersion: 2
-        x: 227
-        y: 6105
-        width: 1028
-        height: 1056
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 6077
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -819,12 +819,12 @@ TextureImporter:
       name: SpriteSheet - Panico_21
       rect:
         serializedVersion: 2
-        x: 1704
-        y: 6104
-        width: 1020
-        height: 1060
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1474
+        y: 6077
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -841,12 +841,12 @@ TextureImporter:
       name: SpriteSheet - Panico_22
       rect:
         serializedVersion: 2
-        x: 3189
-        y: 6104
-        width: 997
-        height: 1070
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2948
+        y: 6077
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -863,12 +863,12 @@ TextureImporter:
       name: SpriteSheet - Panico_23
       rect:
         serializedVersion: 2
-        x: 4682
-        y: 6104
-        width: 956
-        height: 1085
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4422
+        y: 6077
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -885,12 +885,12 @@ TextureImporter:
       name: SpriteSheet - Panico_24
       rect:
         serializedVersion: 2
-        x: 6184
-        y: 6104
-        width: 899
-        height: 1103
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5896
+        y: 6077
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -907,12 +907,12 @@ TextureImporter:
       name: SpriteSheet - Panico_25
       rect:
         serializedVersion: 2
-        x: 7698
-        y: 6104
-        width: 829
-        height: 1124
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7370
+        y: 6077
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -929,12 +929,12 @@ TextureImporter:
       name: SpriteSheet - Panico_26
       rect:
         serializedVersion: 2
-        x: 9204
-        y: 6103
-        width: 770
-        height: 1142
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8844
+        y: 6077
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -951,12 +951,12 @@ TextureImporter:
       name: SpriteSheet - Panico_27
       rect:
         serializedVersion: 2
-        x: 10741
-        y: 6100
-        width: 691
-        height: 1159
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 10318
+        y: 6077
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -973,12 +973,12 @@ TextureImporter:
       name: SpriteSheet - Panico_28
       rect:
         serializedVersion: 2
-        x: 12283
-        y: 6096
-        width: 622
-        height: 1175
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 11792
+        y: 6077
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -995,12 +995,12 @@ TextureImporter:
       name: SpriteSheet - Panico_29
       rect:
         serializedVersion: 2
-        x: 13851
-        y: 6089
-        width: 527
-        height: 1189
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13266
+        y: 6077
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1017,12 +1017,12 @@ TextureImporter:
       name: SpriteSheet - Panico_30
       rect:
         serializedVersion: 2
-        x: 686
-        y: 4868
-        width: 435
-        height: 1198
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 4863
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1039,12 +1039,12 @@ TextureImporter:
       name: SpriteSheet - Panico_31
       rect:
         serializedVersion: 2
-        x: 2230
-        y: 4866
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1474
+        y: 4863
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1061,12 +1061,12 @@ TextureImporter:
       name: SpriteSheet - Panico_32
       rect:
         serializedVersion: 2
-        x: 3707
-        y: 4868
-        width: 414
-        height: 1187
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2948
+        y: 4863
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1083,12 +1083,12 @@ TextureImporter:
       name: SpriteSheet - Panico_33
       rect:
         serializedVersion: 2
-        x: 5133
-        y: 4877
-        width: 507
-        height: 1178
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4422
+        y: 4863
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1105,12 +1105,12 @@ TextureImporter:
       name: SpriteSheet - Panico_34
       rect:
         serializedVersion: 2
-        x: 6560
-        y: 4883
-        width: 605
-        height: 1167
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5896
+        y: 4863
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1127,12 +1127,12 @@ TextureImporter:
       name: SpriteSheet - Panico_35
       rect:
         serializedVersion: 2
-        x: 7984
-        y: 4888
-        width: 691
-        height: 1154
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7370
+        y: 4863
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1149,12 +1149,12 @@ TextureImporter:
       name: SpriteSheet - Panico_36
       rect:
         serializedVersion: 2
-        x: 9413
-        y: 4891
-        width: 777
-        height: 1140
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8844
+        y: 4863
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1171,12 +1171,12 @@ TextureImporter:
       name: SpriteSheet - Panico_37
       rect:
         serializedVersion: 2
-        x: 10863
-        y: 4891
-        width: 830
-        height: 1125
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 10318
+        y: 4863
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1193,12 +1193,12 @@ TextureImporter:
       name: SpriteSheet - Panico_38
       rect:
         serializedVersion: 2
-        x: 12308
-        y: 4891
-        width: 898
-        height: 1100
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 11792
+        y: 4863
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1215,12 +1215,12 @@ TextureImporter:
       name: SpriteSheet - Panico_39
       rect:
         serializedVersion: 2
-        x: 13756
-        y: 4892
-        width: 949
-        height: 1074
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13266
+        y: 4863
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1237,12 +1237,12 @@ TextureImporter:
       name: SpriteSheet - Panico_40
       rect:
         serializedVersion: 2
-        x: 483
-        y: 3678
-        width: 980
-        height: 1057
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 3649
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1259,12 +1259,12 @@ TextureImporter:
       name: SpriteSheet - Panico_41
       rect:
         serializedVersion: 2
-        x: 1951
-        y: 3678
-        width: 991
-        height: 1050
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1474
+        y: 3649
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1281,12 +1281,12 @@ TextureImporter:
       name: SpriteSheet - Panico_42
       rect:
         serializedVersion: 2
-        x: 3426
-        y: 3678
-        width: 986
-        height: 1054
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2948
+        y: 3649
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1303,12 +1303,12 @@ TextureImporter:
       name: SpriteSheet - Panico_43
       rect:
         serializedVersion: 2
-        x: 4906
-        y: 3678
-        width: 972
-        height: 1064
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4422
+        y: 3649
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1325,12 +1325,12 @@ TextureImporter:
       name: SpriteSheet - Panico_44
       rect:
         serializedVersion: 2
-        x: 6391
-        y: 3678
-        width: 948
-        height: 1079
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5896
+        y: 3649
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1347,12 +1347,12 @@ TextureImporter:
       name: SpriteSheet - Panico_45
       rect:
         serializedVersion: 2
-        x: 7882
-        y: 3679
-        width: 913
-        height: 1097
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7370
+        y: 3649
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1369,12 +1369,12 @@ TextureImporter:
       name: SpriteSheet - Panico_46
       rect:
         serializedVersion: 2
-        x: 9377
-        y: 3679
-        width: 868
-        height: 1105
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8844
+        y: 3649
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1391,12 +1391,12 @@ TextureImporter:
       name: SpriteSheet - Panico_47
       rect:
         serializedVersion: 2
-        x: 10867
-        y: 3678
-        width: 817
-        height: 1113
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 10318
+        y: 3649
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1413,12 +1413,12 @@ TextureImporter:
       name: SpriteSheet - Panico_48
       rect:
         serializedVersion: 2
-        x: 12366
-        y: 3677
-        width: 768
-        height: 1118
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 11792
+        y: 3649
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1435,12 +1435,12 @@ TextureImporter:
       name: SpriteSheet - Panico_49
       rect:
         serializedVersion: 2
-        x: 13869
-        y: 3675
-        width: 717
-        height: 1126
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13266
+        y: 3649
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1457,12 +1457,12 @@ TextureImporter:
       name: SpriteSheet - Panico_50
       rect:
         serializedVersion: 2
-        x: 638
-        y: 2460
-        width: 667
-        height: 1134
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2435
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1479,12 +1479,12 @@ TextureImporter:
       name: SpriteSheet - Panico_51
       rect:
         serializedVersion: 2
-        x: 2132
-        y: 2456
-        width: 628
-        height: 1143
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1474
+        y: 2435
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1501,12 +1501,12 @@ TextureImporter:
       name: SpriteSheet - Panico_52
       rect:
         serializedVersion: 2
-        x: 3638
-        y: 2453
-        width: 560
-        height: 1151
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2948
+        y: 2435
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1523,12 +1523,12 @@ TextureImporter:
       name: SpriteSheet - Panico_53
       rect:
         serializedVersion: 2
-        x: 5139
-        y: 2449
-        width: 497
-        height: 1159
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4422
+        y: 2435
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1545,12 +1545,12 @@ TextureImporter:
       name: SpriteSheet - Panico_54
       rect:
         serializedVersion: 2
-        x: 6638
-        y: 2445
-        width: 449
-        height: 1166
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5896
+        y: 2435
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1567,12 +1567,12 @@ TextureImporter:
       name: SpriteSheet - Panico_55
       rect:
         serializedVersion: 2
-        x: 8132
-        y: 2441
-        width: 406
-        height: 1174
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7370
+        y: 2435
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1589,12 +1589,12 @@ TextureImporter:
       name: SpriteSheet - Panico_56
       rect:
         serializedVersion: 2
-        x: 9620
-        y: 2440
-        width: 371
-        height: 1180
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8844
+        y: 2435
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1611,12 +1611,12 @@ TextureImporter:
       name: SpriteSheet - Panico_57
       rect:
         serializedVersion: 2
-        x: 11084
-        y: 2440
-        width: 367
-        height: 1186
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 10318
+        y: 2435
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1633,12 +1633,12 @@ TextureImporter:
       name: SpriteSheet - Panico_58
       rect:
         serializedVersion: 2
-        x: 12546
-        y: 2440
-        width: 371
-        height: 1189
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 11792
+        y: 2435
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1655,12 +1655,12 @@ TextureImporter:
       name: SpriteSheet - Panico_59
       rect:
         serializedVersion: 2
-        x: 14014
-        y: 2440
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13266
+        y: 2435
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1677,12 +1677,12 @@ TextureImporter:
       name: SpriteSheet - Panico_60
       rect:
         serializedVersion: 2
-        x: 757
-        y: 1227
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1221
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1699,12 +1699,12 @@ TextureImporter:
       name: SpriteSheet - Panico_61
       rect:
         serializedVersion: 2
-        x: 2230
-        y: 1227
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1474
+        y: 1221
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1721,12 +1721,12 @@ TextureImporter:
       name: SpriteSheet - Panico_62
       rect:
         serializedVersion: 2
-        x: 3703
-        y: 1227
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2948
+        y: 1221
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1743,12 +1743,12 @@ TextureImporter:
       name: SpriteSheet - Panico_63
       rect:
         serializedVersion: 2
-        x: 5176
-        y: 1227
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4422
+        y: 1221
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1765,12 +1765,12 @@ TextureImporter:
       name: SpriteSheet - Panico_64
       rect:
         serializedVersion: 2
-        x: 6649
-        y: 1227
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5896
+        y: 1221
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1787,12 +1787,12 @@ TextureImporter:
       name: SpriteSheet - Panico_65
       rect:
         serializedVersion: 2
-        x: 8122
-        y: 1227
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7370
+        y: 1221
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1809,12 +1809,12 @@ TextureImporter:
       name: SpriteSheet - Panico_66
       rect:
         serializedVersion: 2
-        x: 9595
-        y: 1227
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8844
+        y: 1221
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1831,12 +1831,12 @@ TextureImporter:
       name: SpriteSheet - Panico_67
       rect:
         serializedVersion: 2
-        x: 11068
-        y: 1227
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 10318
+        y: 1221
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1853,12 +1853,12 @@ TextureImporter:
       name: SpriteSheet - Panico_68
       rect:
         serializedVersion: 2
-        x: 12541
-        y: 1227
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 11792
+        y: 1221
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1875,12 +1875,12 @@ TextureImporter:
       name: SpriteSheet - Panico_69
       rect:
         serializedVersion: 2
-        x: 14014
-        y: 1227
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13266
+        y: 1221
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1897,12 +1897,12 @@ TextureImporter:
       name: SpriteSheet - Panico_70
       rect:
         serializedVersion: 2
-        x: 757
-        y: 14
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 7
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1919,12 +1919,12 @@ TextureImporter:
       name: SpriteSheet - Panico_71
       rect:
         serializedVersion: 2
-        x: 2230
-        y: 14
-        width: 373
-        height: 1190
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1474
+        y: 7
+        width: 1474
+        height: 1214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1941,7 +1941,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7a9c8c2f3f32401478307ae357bd155f
     internalID: 0
     vertices: []
     indices: 
@@ -1949,7 +1949,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":8.0},"gridSpriteSize":{"x":1474.0,"y":1214.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       SpriteSheet - Panico_0: -2806765583268422017
       SpriteSheet - Panico_1: 1209606301160969199

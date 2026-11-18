@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.Rendering;
 
 public class LvlManager : MonoBehaviour
 {
@@ -35,29 +34,58 @@ public class LvlManager : MonoBehaviour
         {
             endScreen[0].SetActive(true);
             lvlTime.PauseTimer();
-            satisfactionPointsG = 0;
+
+            minigameDayCount = 0;
         }
 
-        else
+        if(satisfactionPointsG < satisfactionPointsB || satisfactionPointsG  == 0) 
         {
             endScreen[1].SetActive(true);
             lvlTime.PauseTimer();
-            satisfactionPointsB = 0;
+            
+            minigameDayCount = 0;
         }
     }
 
+   public void ResetDayPoints()
+   {
+        satisfactionPointsB = 0;
+        satisfactionPointsG = 0;
+   }
+
     public void StartMinigame()
     {
+
+        if (minigameDayCount >= 5)
+        {
+            return;
+        }
+
         minigameIsOn = true;
         minigameTime.StartTimer();
+
+        minigameDayCount++;
+
         Debug.Log("MINIGAME INICIADO");
+
     }
+
+
 
     public void EndMinigame()
     {
         minigameIsOn = false;
         minigameTime.StopTimer();
         changeCamera.ActivateCamera(0);
+
+        if (minigameDayCount >= 5)
+        {
+            EndLevel();
+            return;
+        }
+
         lvlTime.ResumeTimer();
     }
+
+
 }
