@@ -48,7 +48,6 @@ public class RobotStateController : MonoBehaviour
 
             if (securityScreens.isAlarmOn)
             {
-                Debug.Log("ALARME!");
 
                 if (stateMachine.currentState != alertState)
                 {

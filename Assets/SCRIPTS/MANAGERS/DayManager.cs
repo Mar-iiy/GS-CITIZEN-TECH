@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DayManager : MonoBehaviour
 {
@@ -13,7 +14,7 @@ public class DayManager : MonoBehaviour
     [SerializeField] int weekSatisfactionB;
 
     [Header("WeekDay")]
-    [SerializeField] int dayNumber;
+    [SerializeField] public int dayNumber;
 
     [Header("WeekEnd")]
     [SerializeField] private GameObject[] weekEnding;
@@ -60,11 +61,6 @@ public class DayManager : MonoBehaviour
 
         Hello();
 
-        if (dayNumber == 5)
-        {
-            CallEndWeek();
-        }
-
         switch (dayNumber)
         {
             case 1:
@@ -98,16 +94,28 @@ public class DayManager : MonoBehaviour
         animator.Play("hello");
     }
 
-    void CallEndWeek()
+    public void CallEndWeek()
     {
-        if(weekSatisfactionG > weekSatisfactionB)
+        Debug.Log("END WEEK RODANDO");
+        
+        lvlTimer.PauseTimer();
+
+        if (weekSatisfactionG > weekSatisfactionB && weekSatisfactionG != 0)
         {
             weekEnding[0].SetActive(true);
+            Debug.Log("RODANDO 01");
         }
 
-        if(weekSatisfactionG < weekSatisfactionB || weekSatisfactionG == 0)
+        else
         {
             weekEnding[1].SetActive(true);
+            Debug.Log("RODANDO 02");
         }
+    }
+
+    public void LeaveGame()
+    {
+        SceneManager.LoadScene(0);
+        Debug.Log("MENU CLICADO");
     }
 }

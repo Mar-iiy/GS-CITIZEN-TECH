@@ -7,7 +7,6 @@ public class ChangeCamera : MonoBehaviour
 
     [Header("Canvas")]
     [SerializeField] private Canvas[] canvasScene;
-    //[SerializeField] private Canvas canvasBorda;
 
     public static int activeCameraID;
 
@@ -25,7 +24,6 @@ public class ChangeCamera : MonoBehaviour
 
         if (cameraID >= 0 && cameraID < cameraScene.Length)
         {
-            // Liga somente a câmera sorteada
             cameraScene[cameraID].enabled = true;
             activeCameraID = cameraID;
             Debug.Log("Câmera ativada: " + cameraID);

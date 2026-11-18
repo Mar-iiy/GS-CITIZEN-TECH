@@ -13,15 +13,9 @@ public class Paciente : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void SortPaciente()
     {
-        pacienteID = Random.Range(1, 4);
+        pacienteID = Random.Range(0, 3);
         ChangePaciente(pacienteID);
         pacienteHealthy = false;
     }

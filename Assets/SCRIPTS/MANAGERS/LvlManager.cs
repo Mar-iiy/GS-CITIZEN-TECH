@@ -5,6 +5,7 @@ public class LvlManager : MonoBehaviour
     [SerializeField] private ChangeCamera changeCamera;
     [SerializeField] private MinigameTimer minigameTime;
     [SerializeField] private LvlTimer lvlTime;
+    [SerializeField] private DayManager dayManager;
 
 
     [Header("Points")]
@@ -30,21 +31,35 @@ public class LvlManager : MonoBehaviour
 
     public void EndLevel()
     {
-        if (satisfactionPointsG > satisfactionPointsB)
-        {
-            endScreen[0].SetActive(true);
-            lvlTime.PauseTimer();
 
-            minigameDayCount = 0;
+        Debug.Log("END LEVEL CALLED");
+        Debug.Log("CURRENT DAY: " + dayManager.dayNumber);
+        Debug.Log("MINIGAMES COMPLETED: " + minigameDayCount);
+
+        if (dayManager.dayNumber >= 4)
+        {
+            Debug.Log("CALLING END WEEK");
+            dayManager.CallEndWeek();
         }
 
-        if(satisfactionPointsG < satisfactionPointsB || satisfactionPointsG  == 0) 
+        else
         {
-            endScreen[1].SetActive(true);
+            Debug.Log("CALLING NORMAL END SCREEN");
+
+            if (satisfactionPointsG > satisfactionPointsB)
+            {
+                endScreen[0].SetActive(true);
+            }
+            else
+            {
+                endScreen[1].SetActive(true);
+            }
+
             lvlTime.PauseTimer();
-            
-            minigameDayCount = 0;
         }
+
+        minigameDayCount = 0;
+
     }
 
    public void ResetDayPoints()
@@ -76,6 +91,7 @@ public class LvlManager : MonoBehaviour
     {
         minigameIsOn = false;
         minigameTime.StopTimer();
+
         changeCamera.ActivateCamera(0);
 
         if (minigameDayCount >= 5)

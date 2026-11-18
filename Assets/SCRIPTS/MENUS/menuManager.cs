@@ -1,9 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 using UnityEngine.Video;
-using static UnityEngine.ParticleSystem;
 
 public class menuManager : MonoBehaviour
 {
@@ -12,22 +10,27 @@ public class menuManager : MonoBehaviour
     public void QuitGame()
     {
         Application.Quit();
+        Debug.Log("SAIR CLICADO");
     }
     public void StartGame()
     {
         StartCoroutine(WaitForVideo());
+        Debug.Log("JOGAR CLICADO");
     }
     public void MenuGame()
     {
         SceneManager.LoadScene(0);
+        Debug.Log("MENU CLICADO");
     }
     public void OptionsGame()
     {
         SceneManager.LoadScene(2);
+        Debug.Log("OPTIONS CLICADO");
     }
     public void EndingGame()
     {
         SceneManager.LoadScene(3);
+        Debug.Log("CREDITOS CLICADO");
     }
 
     private IEnumerator WaitForVideo()

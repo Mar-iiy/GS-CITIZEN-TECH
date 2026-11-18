@@ -11,8 +11,9 @@ public class SecurityScreen : MonoBehaviour
     [SerializeField] private LvlManager lvlManager;
     [SerializeField] private pauseManager pause;
 
-    // [SerializeField] Sprite[] spritesStates;
-
+    [SerializeField] Sprite[] spritesStates;
+    [SerializeField] private AudioClip audioItem;
+    [SerializeField] private AudioSource audio;
 
     [Header("Timer")]
     [SerializeField] private float minTimer;
@@ -51,9 +52,11 @@ public class SecurityScreen : MonoBehaviour
 
     void AlertOn()
     {
-        sr.color = Color.red;
-        intID = Random.Range(1, 5); 
-        //intID = 2;
+        sr.sprite = spritesStates[1];
+        intID = Random.Range(1, 5);
+
+        PlaySound();
+
         stateRoutine = StartCoroutine(AlertOnRoutine());
     }
 
@@ -65,10 +68,19 @@ public class SecurityScreen : MonoBehaviour
         CheckState();
     }
 
+    public void PlaySound()
+    {
+        if(ChangeCamera.activeCameraID == 0)
+        {
+            audio.clip = audioItem;
+            audio.Play();
+        }
+    }
+
 
     void AlertOff()
     {
-        sr.color = Color.grey;
+        sr.sprite = spritesStates[0];
         intID = 0;
         stateRoutine = StartCoroutine(AlertOffRoutine());
     }
@@ -86,10 +98,14 @@ public class SecurityScreen : MonoBehaviour
     {
         if(isAlarmOn && pause.gamePaused == false)
         {
-            Debug.Log("FOI CLICADO");
-            changeCamera.ActivateCamera(intID);
-            AlertOff();
-            lvlManager.StartMinigame();
+            if(intID != 0)
+            {
+                Debug.Log("FOI CLICADO");
+                changeCamera.ActivateCamera(intID);
+                AlertOff();
+                lvlManager.StartMinigame();
+            }
+     
         }
 
         else

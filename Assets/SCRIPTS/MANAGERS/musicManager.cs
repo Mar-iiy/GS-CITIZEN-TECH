@@ -56,7 +56,7 @@ public class musicManager : MonoBehaviour
         {
             PlayMusic(LevelMusic);
         }
-        if (ChangeCamera.activeCameraID == 4)
+        else if (ChangeCamera.activeCameraID == 4)
         {
             PlayMusic(minigameMusic[1]);
         }
